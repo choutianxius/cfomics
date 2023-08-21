@@ -1,0 +1,18 @@
+[uwsgi]
+chdir = /absolute/path/to/the/base/app
+module = app.wsgi
+master = true
+socket = /absolute/path/to/the/base/app/app.sock
+
+chmod-socket = 666
+vacuum = true
+
+strict = true
+enable-threads = true
+single-interpreter = true
+die-on-term = true
+need-app = true
+
+disable-logging = true
+log-4xx = true
+log-5xx = true

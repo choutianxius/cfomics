@@ -1,0 +1,48 @@
+.exomics-search-banner {
+    border-radius: 0;
+    /* use inline css for the following line */
+    /* background-image: url('../../images/expecto-banner.svg'); */
+}
+
+.exomics-search-banner h1 {
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    color: lightslategray
+}
+
+.exomics-search-results {
+    margin-top: 2rem;
+    border: solid 1px ivory;
+    border-radius: 0rem;
+    height: 100px;
+    width: 100%;
+}
+
+.exomics-search-toggle {
+    cursor: pointer;
+}
+
+.exomics-search-toggle::before {
+    content: ' ';
+    display: inline-block;
+
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid currentColor;
+
+    vertical-align: middle;
+    margin-right: .7rem;
+    transform: translateY(-2px);
+
+    transition: transform ease-out;
+}
+
+.exomics-search-toggle[aria-expanded="true"]::before {
+    transform: rotate(90deg) translateX(-3px);
+}
+
+.search-gene-sidebar {
+  width: 250px;
+  position: sticky;
+  top: 4.5rem;
+}

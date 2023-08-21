@@ -1,0 +1,54 @@
+/* .exomics-background-img {
+    z-index: -1;
+} */
+
+.exomics-home-browse img {
+    max-width: 2rem;
+    max-height: 2rem;
+}
+
+.exomics-home-browse a {
+    text-decoration: none;
+    font-size: .8rem;
+    color: black;
+}
+
+.exomics-home-statistics a {
+    text-decoration: none;
+}
+
+#exomics-home-cards i {
+  color: rgb(10,88,202);
+}
+
+.exomics-home-func {
+  position: relative;
+  /* height: 24rem; */
+  width: 100%;
+  background-color: #777;
+  overflow: hidden;
+}
+
+.exomics-home-func img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  -webkit-mask-image: linear-gradient(to top, transparent 10%, black);
+  mask-image: linear-gradient(to top, transparent 10%, black);
+  transform-origin: 0 0;
+  transition: transform .25s, visibility .25s ease-in;
+  cursor: pointer;
+}
+
+.exomics-home-func:hover img {
+  transform: scale(1.25);
+}
+
+.exomics-home-func > div {
+  width: 100%;
+  position: absolute;
+  bottom: .5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: white;
+}

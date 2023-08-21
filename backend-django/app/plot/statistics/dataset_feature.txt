@@ -1,0 +1,41 @@
+omics	dataset	feature
+cfDNA	GSE149438	Methylation (BS-seq)
+cfRNA	SRP130149	Alternative Promoter, Microbe, Alternative Poly-adenylation, Expression
+cfDNA	GSE81314	Nucleosomal Occupancy, Methylation (DIP-seq), Microbe, Fragment Size, End Motif
+Proteome	PXD012304	Intensity
+cfRNA	GSE106804	Expression
+Proteome	PXD018304	Intensity
+cfDNA	GSE112679	Methylation (DIP-seq)
+Proteome	PXD023508	Intensity
+cfRNA	GSE68086	Alternative Poly-adenylation, RNA Splicing, RNA SNP, Chimeric RNA, Alternative Promoter, RNA Editing
+cfDNA	GSE28314	Methylation (DIP-seq)
+cfDNA	GSE54961	Methylation (DIP-seq)
+cfRNA	GSE117623	Alternative Poly-adenylation, Chimeric RNA, Expression, RNA Splicing
+cfDNA	PRJEB28329	Methylation (DIP-seq), Microbe, Nucleosomal Occupancy, End Motif, Fragment Size
+cfRNA	GSE40174	Expression
+cfDNA	GSE152631	Microbe, Methylation (DIP-seq), Nucleosomal Occupancy, End Motif
+cfDNA	GSE142241	Methylation (DIP-seq), Methylation (BS-seq)
+Proteome	PXD020557	Intensity
+cfRNA	SRP061372	Expression, RNA Splicing, Chimeric RNA, Alternative Poly-adenylation
+cfRNA	PRJNA737596	Microbe, Alternative Promoter, Expression, Chimeric RNA
+cfDNA	GSE93203	Methylation (BS-seq)
+cfRNA	GSE89843	RNA Editing, Microbe, Alternative Promoter, RNA SNP, Chimeric RNA
+Proteome	PXD028251	Intensity
+cfDNA	GSE73931	Nucleosomal Occupancy, Methylation (DIP-seq), Microbe, Fragment Size, End Motif
+cfDNA	PRJNA687345	Nucleosomal Occupancy, Microbe, Fragment Size, End Motif
+Proteome	PXD019387	Intensity
+cfDNA	GSE113386	End Motif, Nucleosomal Occupancy, Microbe, Methylation (DIP-seq)
+Proteome	PXD024997	Intensity
+cfDNA	GSE63775	Methylation (BS-seq)
+cfDNA	GSE126676	Methylation (DIP-seq)
+cfRNA	GSE183635	Expression, Microbe
+cfDNA	GSE124600	Methylation (BS-seq)
+Metabolite	MSV000080950	Area of Peak
+Metabolite	MSV000083357	Area of Peak
+cfRNA	GSE120663	Alternative Poly-adenylation, Transposal Element, Chimeric RNA, Expression, RNA Splicing, RNA SNP, Alternative Promoter, Microbe, RNA Editing
+cfRNA	GSE133684	Alternative Promoter, RNA Editing, Alternative Poly-adenylation, Transposal Element, Chimeric RNA, Expression, RNA Splicing, RNA SNP
+cfRNA	GSE125442	RNA Editing, Microbe, Alternative Promoter, Expression, RNA Splicing, RNA SNP, Chimeric RNA, Transposal Element
+cfDNA	GSE89570	Methylation (DIP-seq)
+cfDNA	GSE79279	Methylation (BS-seq)
+Metabolite	MSV000084717	Area of Peak
+Proteome	PXD007217	Intensity

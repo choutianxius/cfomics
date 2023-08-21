@@ -1,0 +1,54 @@
+.exomics-browse-banner img {
+    max-width: 2rem;
+    max-height: 2rem;
+}
+
+.exomics-browse-banner a {
+    text-decoration: none;
+    font-size: .8rem;
+    color: black;
+}
+
+.exomics-browse-active {
+    background-color: lightblue;
+}
+
+
+.exomics-browse-dataset-bar {
+    border: none;
+    border-radius: .25rem;
+    background-color: #E1E1E1;
+    overflow-x: hidden;
+}
+
+.exomics-browse-dataset-bar:hover, .exomics-browse-dataset-bar.active {
+    background-color: #C0C0C0;
+}
+
+.exomics-browse-dataset-cancer {
+    border: none;
+    min-width: 2.5rem;
+    text-align: center;
+    border-radius: .5rem;
+    margin-left: .125rem;
+    margin-right: .125rem;
+    color: white;
+    padding: .125rem .25rem;
+    font-size: .75rem;
+}
+
+.exomics-browse-dataset-cancer[color="primary"] {
+    background-color: #0d6efd;
+}
+
+.exomics-browse-dataset-cancer[color="success"] {
+    background-color: #198754;
+}
+
+.exomics-browse-dataset-cancer[color="danger"] {
+    background-color: #dc3545;
+}
+
+.exomics-browse-dataset-cancer[color="indigo"] {
+    background-color: #6610f2;
+}

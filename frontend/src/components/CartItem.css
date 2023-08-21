@@ -1,0 +1,27 @@
+.exomics-cart-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: .25rem;
+  background-color: rgb(25, 135, 84);
+  border-radius: .25rem;
+  width: 10rem;
+  height: 1.5rem;
+  font-size: small;
+  color: white;
+  margin-top: .25rem;
+  margin-bottom: .25rem;
+}
+
+.exomics-cart-item svg {
+  height: 1.2rem;
+  margin-right: .5rem;
+  cursor: pointer;
+}
+
+.exomics-cart-item span {
+  width: 7rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

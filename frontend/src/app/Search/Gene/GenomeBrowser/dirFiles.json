@@ -1,0 +1,3168 @@
+[
+  {
+    "title": "cfdna_bsseq",
+    "items": [
+      {
+        "title": "gse124600",
+        "items": [
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse124600-entity-crc-plasma-beta-srr8800285.bw",
+                "url": "cfdna_bsseq/gse124600/crc/cfdna-bsseq-gse124600-entity-crc-plasma-beta-srr8800285.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse124600-entity-crc-plasma-beta-srr8800286.bw",
+                "url": "cfdna_bsseq/gse124600/crc/cfdna-bsseq-gse124600-entity-crc-plasma-beta-srr8800286.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse124600-entity-crc-plasma-beta-srr8800287.bw",
+                "url": "cfdna_bsseq/gse124600/crc/cfdna-bsseq-gse124600-entity-crc-plasma-beta-srr8800287.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse124600-entity-crc-plasma-beta-srr8800288.bw",
+                "url": "cfdna_bsseq/gse124600/crc/cfdna-bsseq-gse124600-entity-crc-plasma-beta-srr8800288.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse124600-entity-crc-plasma-beta-srr8800289.bw",
+                "url": "cfdna_bsseq/gse124600/crc/cfdna-bsseq-gse124600-entity-crc-plasma-beta-srr8800289.bw"
+              }
+            ]
+          },
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse124600-entity-ct-plasma-beta-srr8800356.bw",
+                "url": "cfdna_bsseq/gse124600/ct/cfdna-bsseq-gse124600-entity-ct-plasma-beta-srr8800356.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse124600-entity-ct-plasma-beta-srr8800357.bw",
+                "url": "cfdna_bsseq/gse124600/ct/cfdna-bsseq-gse124600-entity-ct-plasma-beta-srr8800357.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse124600-entity-ct-plasma-beta-srr8800358.bw",
+                "url": "cfdna_bsseq/gse124600/ct/cfdna-bsseq-gse124600-entity-ct-plasma-beta-srr8800358.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse124600-entity-ct-plasma-beta-srr8800359.bw",
+                "url": "cfdna_bsseq/gse124600/ct/cfdna-bsseq-gse124600-entity-ct-plasma-beta-srr8800359.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse124600-entity-ct-plasma-beta-srr8800360.bw",
+                "url": "cfdna_bsseq/gse124600/ct/cfdna-bsseq-gse124600-entity-ct-plasma-beta-srr8800360.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse142241",
+        "items": [
+          {
+            "title": "ct_hp",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse142241-entity-ct_hp-csf-beta-srr10725749.bw",
+                "url": "cfdna_bsseq/gse142241/ct_hp/cfdna-bsseq-gse142241-entity-ct_hp-csf-beta-srr10725749.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse142241-entity-ct_hp-csf-beta-srr10725750.bw",
+                "url": "cfdna_bsseq/gse142241/ct_hp/cfdna-bsseq-gse142241-entity-ct_hp-csf-beta-srr10725750.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse142241-entity-ct_hp-csf-beta-srr10725751.bw",
+                "url": "cfdna_bsseq/gse142241/ct_hp/cfdna-bsseq-gse142241-entity-ct_hp-csf-beta-srr10725751.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse142241-entity-ct_hp-csf-beta-srr10725752.bw",
+                "url": "cfdna_bsseq/gse142241/ct_hp/cfdna-bsseq-gse142241-entity-ct_hp-csf-beta-srr10725752.bw"
+              }
+            ]
+          },
+          {
+            "title": "mb",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse142241-entity-mb-csf-beta-srr10725743.bw",
+                "url": "cfdna_bsseq/gse142241/mb/cfdna-bsseq-gse142241-entity-mb-csf-beta-srr10725743.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse142241-entity-mb-csf-beta-srr10725745.bw",
+                "url": "cfdna_bsseq/gse142241/mb/cfdna-bsseq-gse142241-entity-mb-csf-beta-srr10725745.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse142241-entity-mb-csf-beta-srr10725747.bw",
+                "url": "cfdna_bsseq/gse142241/mb/cfdna-bsseq-gse142241-entity-mb-csf-beta-srr10725747.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse142241-entity-mb-csf-beta-srr10725753.bw",
+                "url": "cfdna_bsseq/gse142241/mb/cfdna-bsseq-gse142241-entity-mb-csf-beta-srr10725753.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse149438",
+        "items": [
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse149438-entity-crc-plasma-beta-srr11615854.bw",
+                "url": "cfdna_bsseq/gse149438/crc/cfdna-bsseq-gse149438-entity-crc-plasma-beta-srr11615854.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-crc-plasma-beta-srr11615857.bw",
+                "url": "cfdna_bsseq/gse149438/crc/cfdna-bsseq-gse149438-entity-crc-plasma-beta-srr11615857.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-crc-plasma-beta-srr11615858.bw",
+                "url": "cfdna_bsseq/gse149438/crc/cfdna-bsseq-gse149438-entity-crc-plasma-beta-srr11615858.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-crc-plasma-beta-srr11615862.bw",
+                "url": "cfdna_bsseq/gse149438/crc/cfdna-bsseq-gse149438-entity-crc-plasma-beta-srr11615862.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-crc-plasma-beta-srr11615863.bw",
+                "url": "cfdna_bsseq/gse149438/crc/cfdna-bsseq-gse149438-entity-crc-plasma-beta-srr11615863.bw"
+              }
+            ]
+          },
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse149438-entity-ct-plasma-beta-srr11615795.bw",
+                "url": "cfdna_bsseq/gse149438/ct/cfdna-bsseq-gse149438-entity-ct-plasma-beta-srr11615795.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-ct-plasma-beta-srr11615797.bw",
+                "url": "cfdna_bsseq/gse149438/ct/cfdna-bsseq-gse149438-entity-ct-plasma-beta-srr11615797.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-ct-plasma-beta-srr11615798.bw",
+                "url": "cfdna_bsseq/gse149438/ct/cfdna-bsseq-gse149438-entity-ct-plasma-beta-srr11615798.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-ct-plasma-beta-srr11615799.bw",
+                "url": "cfdna_bsseq/gse149438/ct/cfdna-bsseq-gse149438-entity-ct-plasma-beta-srr11615799.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-ct-plasma-beta-srr11615805.bw",
+                "url": "cfdna_bsseq/gse149438/ct/cfdna-bsseq-gse149438-entity-ct-plasma-beta-srr11615805.bw"
+              }
+            ]
+          },
+          {
+            "title": "eac",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse149438-entity-eac-plasma-beta-srr11615793.bw",
+                "url": "cfdna_bsseq/gse149438/eac/cfdna-bsseq-gse149438-entity-eac-plasma-beta-srr11615793.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-eac-plasma-beta-srr11615818.bw",
+                "url": "cfdna_bsseq/gse149438/eac/cfdna-bsseq-gse149438-entity-eac-plasma-beta-srr11615818.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-eac-plasma-beta-srr11615822.bw",
+                "url": "cfdna_bsseq/gse149438/eac/cfdna-bsseq-gse149438-entity-eac-plasma-beta-srr11615822.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-eac-plasma-beta-srr11615830.bw",
+                "url": "cfdna_bsseq/gse149438/eac/cfdna-bsseq-gse149438-entity-eac-plasma-beta-srr11615830.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-eac-plasma-beta-srr11615882.bw",
+                "url": "cfdna_bsseq/gse149438/eac/cfdna-bsseq-gse149438-entity-eac-plasma-beta-srr11615882.bw"
+              }
+            ]
+          },
+          {
+            "title": "escc",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse149438-entity-escc-plasma-beta-srr11615800.bw",
+                "url": "cfdna_bsseq/gse149438/escc/cfdna-bsseq-gse149438-entity-escc-plasma-beta-srr11615800.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-escc-plasma-beta-srr11615813.bw",
+                "url": "cfdna_bsseq/gse149438/escc/cfdna-bsseq-gse149438-entity-escc-plasma-beta-srr11615813.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-escc-plasma-beta-srr11615814.bw",
+                "url": "cfdna_bsseq/gse149438/escc/cfdna-bsseq-gse149438-entity-escc-plasma-beta-srr11615814.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-escc-plasma-beta-srr11615817.bw",
+                "url": "cfdna_bsseq/gse149438/escc/cfdna-bsseq-gse149438-entity-escc-plasma-beta-srr11615817.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-escc-plasma-beta-srr11615825.bw",
+                "url": "cfdna_bsseq/gse149438/escc/cfdna-bsseq-gse149438-entity-escc-plasma-beta-srr11615825.bw"
+              }
+            ]
+          },
+          {
+            "title": "gc",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse149438-entity-gc-plasma-beta-srr11615796.bw",
+                "url": "cfdna_bsseq/gse149438/gc/cfdna-bsseq-gse149438-entity-gc-plasma-beta-srr11615796.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-gc-plasma-beta-srr11615812.bw",
+                "url": "cfdna_bsseq/gse149438/gc/cfdna-bsseq-gse149438-entity-gc-plasma-beta-srr11615812.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-gc-plasma-beta-srr11615828.bw",
+                "url": "cfdna_bsseq/gse149438/gc/cfdna-bsseq-gse149438-entity-gc-plasma-beta-srr11615828.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-gc-plasma-beta-srr11615838.bw",
+                "url": "cfdna_bsseq/gse149438/gc/cfdna-bsseq-gse149438-entity-gc-plasma-beta-srr11615838.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-gc-plasma-beta-srr11615851.bw",
+                "url": "cfdna_bsseq/gse149438/gc/cfdna-bsseq-gse149438-entity-gc-plasma-beta-srr11615851.bw"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse149438-entity-lihc-plasma-beta-srr11615790.bw",
+                "url": "cfdna_bsseq/gse149438/lihc/cfdna-bsseq-gse149438-entity-lihc-plasma-beta-srr11615790.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-lihc-plasma-beta-srr11615794.bw",
+                "url": "cfdna_bsseq/gse149438/lihc/cfdna-bsseq-gse149438-entity-lihc-plasma-beta-srr11615794.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-lihc-plasma-beta-srr11615801.bw",
+                "url": "cfdna_bsseq/gse149438/lihc/cfdna-bsseq-gse149438-entity-lihc-plasma-beta-srr11615801.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-lihc-plasma-beta-srr11615804.bw",
+                "url": "cfdna_bsseq/gse149438/lihc/cfdna-bsseq-gse149438-entity-lihc-plasma-beta-srr11615804.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-lihc-plasma-beta-srr11615821.bw",
+                "url": "cfdna_bsseq/gse149438/lihc/cfdna-bsseq-gse149438-entity-lihc-plasma-beta-srr11615821.bw"
+              }
+            ]
+          },
+          {
+            "title": "pdac",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse149438-entity-pdac-plasma-beta-srr11615791.bw",
+                "url": "cfdna_bsseq/gse149438/pdac/cfdna-bsseq-gse149438-entity-pdac-plasma-beta-srr11615791.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-pdac-plasma-beta-srr11615792.bw",
+                "url": "cfdna_bsseq/gse149438/pdac/cfdna-bsseq-gse149438-entity-pdac-plasma-beta-srr11615792.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-pdac-plasma-beta-srr11615802.bw",
+                "url": "cfdna_bsseq/gse149438/pdac/cfdna-bsseq-gse149438-entity-pdac-plasma-beta-srr11615802.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-pdac-plasma-beta-srr11615803.bw",
+                "url": "cfdna_bsseq/gse149438/pdac/cfdna-bsseq-gse149438-entity-pdac-plasma-beta-srr11615803.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse149438-entity-pdac-plasma-beta-srr11615811.bw",
+                "url": "cfdna_bsseq/gse149438/pdac/cfdna-bsseq-gse149438-entity-pdac-plasma-beta-srr11615811.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse63775",
+        "items": [
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse63775-entity-ct-plasma-beta-srr1720689.bw",
+                "url": "cfdna_bsseq/gse63775/ct/cfdna-bsseq-gse63775-entity-ct-plasma-beta-srr1720689.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse63775-entity-ct-plasma-beta-srr1720690.bw",
+                "url": "cfdna_bsseq/gse63775/ct/cfdna-bsseq-gse63775-entity-ct-plasma-beta-srr1720690.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse63775-entity-ct-plasma-beta-srr1720691.bw",
+                "url": "cfdna_bsseq/gse63775/ct/cfdna-bsseq-gse63775-entity-ct-plasma-beta-srr1720691.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse63775-entity-ct-plasma-beta-srr1720692.bw",
+                "url": "cfdna_bsseq/gse63775/ct/cfdna-bsseq-gse63775-entity-ct-plasma-beta-srr1720692.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse63775-entity-ct-plasma-beta-srr1720693.bw",
+                "url": "cfdna_bsseq/gse63775/ct/cfdna-bsseq-gse63775-entity-ct-plasma-beta-srr1720693.bw"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse63775-entity-lihc-plasma-beta-srr1720646.bw",
+                "url": "cfdna_bsseq/gse63775/lihc/cfdna-bsseq-gse63775-entity-lihc-plasma-beta-srr1720646.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse63775-entity-lihc-plasma-beta-srr1720647.bw",
+                "url": "cfdna_bsseq/gse63775/lihc/cfdna-bsseq-gse63775-entity-lihc-plasma-beta-srr1720647.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse63775-entity-lihc-plasma-beta-srr1720648.bw",
+                "url": "cfdna_bsseq/gse63775/lihc/cfdna-bsseq-gse63775-entity-lihc-plasma-beta-srr1720648.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse63775-entity-lihc-plasma-beta-srr1720649.bw",
+                "url": "cfdna_bsseq/gse63775/lihc/cfdna-bsseq-gse63775-entity-lihc-plasma-beta-srr1720649.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse63775-entity-lihc-plasma-beta-srr1720650.bw",
+                "url": "cfdna_bsseq/gse63775/lihc/cfdna-bsseq-gse63775-entity-lihc-plasma-beta-srr1720650.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse93203",
+        "items": [
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse93203-entity-ct-serum-beta-srr5148090.bw",
+                "url": "cfdna_bsseq/gse93203/ct/cfdna-bsseq-gse93203-entity-ct-serum-beta-srr5148090.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse93203-entity-ct-serum-beta-srr5148091.bw",
+                "url": "cfdna_bsseq/gse93203/ct/cfdna-bsseq-gse93203-entity-ct-serum-beta-srr5148091.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse93203-entity-ct-serum-beta-srr5148092.bw",
+                "url": "cfdna_bsseq/gse93203/ct/cfdna-bsseq-gse93203-entity-ct-serum-beta-srr5148092.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse93203-entity-ct-serum-beta-srr5148093.bw",
+                "url": "cfdna_bsseq/gse93203/ct/cfdna-bsseq-gse93203-entity-ct-serum-beta-srr5148093.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse93203-entity-ct-serum-beta-srr5148094.bw",
+                "url": "cfdna_bsseq/gse93203/ct/cfdna-bsseq-gse93203-entity-ct-serum-beta-srr5148094.bw"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfdna-bsseq-gse93203-entity-lihc-serum-beta-srr5146869.bw",
+                "url": "cfdna_bsseq/gse93203/lihc/cfdna-bsseq-gse93203-entity-lihc-serum-beta-srr5146869.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse93203-entity-lihc-serum-beta-srr5146870.bw",
+                "url": "cfdna_bsseq/gse93203/lihc/cfdna-bsseq-gse93203-entity-lihc-serum-beta-srr5146870.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse93203-entity-lihc-serum-beta-srr5146871.bw",
+                "url": "cfdna_bsseq/gse93203/lihc/cfdna-bsseq-gse93203-entity-lihc-serum-beta-srr5146871.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse93203-entity-lihc-serum-beta-srr5146872.bw",
+                "url": "cfdna_bsseq/gse93203/lihc/cfdna-bsseq-gse93203-entity-lihc-serum-beta-srr5146872.bw"
+              },
+              {
+                "title": "cfdna-bsseq-gse93203-entity-lihc-serum-beta-srr5146873.bw",
+                "url": "cfdna_bsseq/gse93203/lihc/cfdna-bsseq-gse93203-entity-lihc-serum-beta-srr5146873.bw"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "cfdna_fragsize",
+    "items": [
+      {
+        "title": "gse73931",
+        "items": [
+          {
+            "title": "ctrl",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse73931-bin-ctrl-blood-ratio-SRR2634349.txt",
+                "url": "cfdna_fragsize/gse73931/ctrl/cfdna-fragsize-gse73931-bin-ctrl-blood-ratio-SRR2634349.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse73931-bin-mean-blood-ratio-ctrl.txt",
+                "url": "cfdna_fragsize/gse73931/ctrl/cfdna-fragsize-gse73931-bin-mean-blood-ratio-ctrl.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse73931-gene-ctrl-blood-ratio-SRR2634349.txt",
+                "url": "cfdna_fragsize/gse73931/ctrl/cfdna-fragsize-gse73931-gene-ctrl-blood-ratio-SRR2634349.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse73931-gene-mean-blood-ratio-ctrl.txt",
+                "url": "cfdna_fragsize/gse73931/ctrl/cfdna-fragsize-gse73931-gene-mean-blood-ratio-ctrl.txt"
+              }
+            ]
+          },
+          {
+            "title": "firefighter",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse73931-bin-firefighter-blood-ratio-SRR2634347.txt",
+                "url": "cfdna_fragsize/gse73931/firefighter/cfdna-fragsize-gse73931-bin-firefighter-blood-ratio-SRR2634347.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse73931-bin-mean-blood-ratio-firefighter.txt",
+                "url": "cfdna_fragsize/gse73931/firefighter/cfdna-fragsize-gse73931-bin-mean-blood-ratio-firefighter.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse73931-gene-firefighter-blood-ratio-SRR2634347.txt",
+                "url": "cfdna_fragsize/gse73931/firefighter/cfdna-fragsize-gse73931-gene-firefighter-blood-ratio-SRR2634347.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse73931-gene-mean-blood-ratio-firefighter.txt",
+                "url": "cfdna_fragsize/gse73931/firefighter/cfdna-fragsize-gse73931-gene-mean-blood-ratio-firefighter.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      },
+      {
+        "title": "gse81314",
+        "items": [
+          {
+            "title": "brca",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse81314-bin-brca-plasma-ratio-SRR5875044.txt",
+                "url": "cfdna_fragsize/gse81314/brca/cfdna-fragsize-gse81314-bin-brca-plasma-ratio-SRR5875044.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-brca-plasma-ratio-SRR5875045.txt",
+                "url": "cfdna_fragsize/gse81314/brca/cfdna-fragsize-gse81314-bin-brca-plasma-ratio-SRR5875045.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-mean-plasma-ratio-brca.txt",
+                "url": "cfdna_fragsize/gse81314/brca/cfdna-fragsize-gse81314-bin-mean-plasma-ratio-brca.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-gene-brca-plasma-ratio-SRR5875044.txt",
+                "url": "cfdna_fragsize/gse81314/brca/cfdna-fragsize-gse81314-gene-brca-plasma-ratio-SRR5875044.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-gene-brca-plasma-ratio-SRR5875045.txt",
+                "url": "cfdna_fragsize/gse81314/brca/cfdna-fragsize-gse81314-gene-brca-plasma-ratio-SRR5875045.txt"
+              }
+            ]
+          },
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse81314-bin-crc-plasma-ratio-SRR5875040.txt",
+                "url": "cfdna_fragsize/gse81314/crc/cfdna-fragsize-gse81314-bin-crc-plasma-ratio-SRR5875040.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-crc-plasma-ratio-SRR5875041.txt",
+                "url": "cfdna_fragsize/gse81314/crc/cfdna-fragsize-gse81314-bin-crc-plasma-ratio-SRR5875041.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-crc-plasma-ratio-SRR5875042.txt",
+                "url": "cfdna_fragsize/gse81314/crc/cfdna-fragsize-gse81314-bin-crc-plasma-ratio-SRR5875042.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-crc-plasma-ratio-SRR5875043.txt",
+                "url": "cfdna_fragsize/gse81314/crc/cfdna-fragsize-gse81314-bin-crc-plasma-ratio-SRR5875043.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-mean-plasma-ratio-crc.txt",
+                "url": "cfdna_fragsize/gse81314/crc/cfdna-fragsize-gse81314-bin-mean-plasma-ratio-crc.txt"
+              }
+            ]
+          },
+          {
+            "title": "ctrl_hbvc",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse81314-bin-ctrl_hbvc-plasma-ratio-SRR5875046.txt",
+                "url": "cfdna_fragsize/gse81314/ctrl_hbvc/cfdna-fragsize-gse81314-bin-ctrl_hbvc-plasma-ratio-SRR5875046.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-ctrl_hbvc-plasma-ratio-SRR5875047.txt",
+                "url": "cfdna_fragsize/gse81314/ctrl_hbvc/cfdna-fragsize-gse81314-bin-ctrl_hbvc-plasma-ratio-SRR5875047.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-mean-plasma-ratio-ctrl_hbvc.txt",
+                "url": "cfdna_fragsize/gse81314/ctrl_hbvc/cfdna-fragsize-gse81314-bin-mean-plasma-ratio-ctrl_hbvc.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-gene-ctrl_hbvc-plasma-ratio-SRR5875046.txt",
+                "url": "cfdna_fragsize/gse81314/ctrl_hbvc/cfdna-fragsize-gse81314-gene-ctrl_hbvc-plasma-ratio-SRR5875046.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-gene-ctrl_hbvc-plasma-ratio-SRR5875047.txt",
+                "url": "cfdna_fragsize/gse81314/ctrl_hbvc/cfdna-fragsize-gse81314-gene-ctrl_hbvc-plasma-ratio-SRR5875047.txt"
+              }
+            ]
+          },
+          {
+            "title": "ctrl_hc",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse81314-bin-ctrl_hc-plasma-ratio-SRR5875048.txt",
+                "url": "cfdna_fragsize/gse81314/ctrl_hc/cfdna-fragsize-gse81314-bin-ctrl_hc-plasma-ratio-SRR5875048.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-ctrl_hc-plasma-ratio-SRR5875049.txt",
+                "url": "cfdna_fragsize/gse81314/ctrl_hc/cfdna-fragsize-gse81314-bin-ctrl_hc-plasma-ratio-SRR5875049.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-ctrl_hc-plasma-ratio-SRR5875050.txt",
+                "url": "cfdna_fragsize/gse81314/ctrl_hc/cfdna-fragsize-gse81314-bin-ctrl_hc-plasma-ratio-SRR5875050.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-ctrl_hc-plasma-ratio-SRR5875051.txt",
+                "url": "cfdna_fragsize/gse81314/ctrl_hc/cfdna-fragsize-gse81314-bin-ctrl_hc-plasma-ratio-SRR5875051.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-mean-plasma-ratio-ctrl_hc.txt",
+                "url": "cfdna_fragsize/gse81314/ctrl_hc/cfdna-fragsize-gse81314-bin-mean-plasma-ratio-ctrl_hc.txt"
+              }
+            ]
+          },
+          {
+            "title": "gbm",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse81314-bin-gbm-plasma-ratio-SRR5875014.txt",
+                "url": "cfdna_fragsize/gse81314/gbm/cfdna-fragsize-gse81314-bin-gbm-plasma-ratio-SRR5875014.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-gbm-plasma-ratio-SRR5875015.txt",
+                "url": "cfdna_fragsize/gse81314/gbm/cfdna-fragsize-gse81314-bin-gbm-plasma-ratio-SRR5875015.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-gbm-plasma-ratio-SRR5875026.txt",
+                "url": "cfdna_fragsize/gse81314/gbm/cfdna-fragsize-gse81314-bin-gbm-plasma-ratio-SRR5875026.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-gbm-plasma-ratio-SRR5875027.txt",
+                "url": "cfdna_fragsize/gse81314/gbm/cfdna-fragsize-gse81314-bin-gbm-plasma-ratio-SRR5875027.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-mean-plasma-ratio-gbm.txt",
+                "url": "cfdna_fragsize/gse81314/gbm/cfdna-fragsize-gse81314-bin-mean-plasma-ratio-gbm.txt"
+              }
+            ]
+          },
+          {
+            "title": "gc",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse81314-bin-gc-plasma-ratio-SRR5875016.txt",
+                "url": "cfdna_fragsize/gse81314/gc/cfdna-fragsize-gse81314-bin-gc-plasma-ratio-SRR5875016.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-gc-plasma-ratio-SRR5875017.txt",
+                "url": "cfdna_fragsize/gse81314/gc/cfdna-fragsize-gse81314-bin-gc-plasma-ratio-SRR5875017.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-gc-plasma-ratio-SRR5875028.txt",
+                "url": "cfdna_fragsize/gse81314/gc/cfdna-fragsize-gse81314-bin-gc-plasma-ratio-SRR5875028.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-gc-plasma-ratio-SRR5875029.txt",
+                "url": "cfdna_fragsize/gse81314/gc/cfdna-fragsize-gse81314-bin-gc-plasma-ratio-SRR5875029.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-mean-plasma-ratio-gc.txt",
+                "url": "cfdna_fragsize/gse81314/gc/cfdna-fragsize-gse81314-bin-mean-plasma-ratio-gc.txt"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse81314-bin-lihc-plasma-ratio-SRR5875012.txt",
+                "url": "cfdna_fragsize/gse81314/lihc/cfdna-fragsize-gse81314-bin-lihc-plasma-ratio-SRR5875012.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-lihc-plasma-ratio-SRR5875030.txt",
+                "url": "cfdna_fragsize/gse81314/lihc/cfdna-fragsize-gse81314-bin-lihc-plasma-ratio-SRR5875030.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-lihc-plasma-ratio-SRR5875031.txt",
+                "url": "cfdna_fragsize/gse81314/lihc/cfdna-fragsize-gse81314-bin-lihc-plasma-ratio-SRR5875031.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-lihc-plasma-ratio-SRR5875032.txt",
+                "url": "cfdna_fragsize/gse81314/lihc/cfdna-fragsize-gse81314-bin-lihc-plasma-ratio-SRR5875032.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-lihc-plasma-ratio-SRR5875033.txt",
+                "url": "cfdna_fragsize/gse81314/lihc/cfdna-fragsize-gse81314-bin-lihc-plasma-ratio-SRR5875033.txt"
+              }
+            ]
+          },
+          {
+            "title": "luca",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse81314-bin-luca-plasma-ratio-SRR5875013.txt",
+                "url": "cfdna_fragsize/gse81314/luca/cfdna-fragsize-gse81314-bin-luca-plasma-ratio-SRR5875013.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-luca-plasma-ratio-SRR5875018.txt",
+                "url": "cfdna_fragsize/gse81314/luca/cfdna-fragsize-gse81314-bin-luca-plasma-ratio-SRR5875018.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-luca-plasma-ratio-SRR5875019.txt",
+                "url": "cfdna_fragsize/gse81314/luca/cfdna-fragsize-gse81314-bin-luca-plasma-ratio-SRR5875019.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-luca-plasma-ratio-SRR5875020.txt",
+                "url": "cfdna_fragsize/gse81314/luca/cfdna-fragsize-gse81314-bin-luca-plasma-ratio-SRR5875020.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-luca-plasma-ratio-SRR5875021.txt",
+                "url": "cfdna_fragsize/gse81314/luca/cfdna-fragsize-gse81314-bin-luca-plasma-ratio-SRR5875021.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse81314-bin-mean-plasma-ratio-paad.txt",
+                "url": "cfdna_fragsize/gse81314/mean/cfdna-fragsize-gse81314-bin-mean-plasma-ratio-paad.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-gene-mean-plasma-ratio-paad.txt",
+                "url": "cfdna_fragsize/gse81314/mean/cfdna-fragsize-gse81314-gene-mean-plasma-ratio-paad.txt"
+              }
+            ]
+          },
+          {
+            "title": "paad",
+            "items": [
+              {
+                "title": "cfdna-fragsize-gse81314-bin-paad-plasma-ratio-SRR5875010.txt",
+                "url": "cfdna_fragsize/gse81314/paad/cfdna-fragsize-gse81314-bin-paad-plasma-ratio-SRR5875010.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-paad-plasma-ratio-SRR5875011.txt",
+                "url": "cfdna_fragsize/gse81314/paad/cfdna-fragsize-gse81314-bin-paad-plasma-ratio-SRR5875011.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-paad-plasma-ratio-SRR5875034.txt",
+                "url": "cfdna_fragsize/gse81314/paad/cfdna-fragsize-gse81314-bin-paad-plasma-ratio-SRR5875034.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-paad-plasma-ratio-SRR5875035.txt",
+                "url": "cfdna_fragsize/gse81314/paad/cfdna-fragsize-gse81314-bin-paad-plasma-ratio-SRR5875035.txt"
+              },
+              {
+                "title": "cfdna-fragsize-gse81314-bin-paad-plasma-ratio-SRR5875037.txt",
+                "url": "cfdna_fragsize/gse81314/paad/cfdna-fragsize-gse81314-bin-paad-plasma-ratio-SRR5875037.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "prjeb28329",
+        "items": [
+          {
+            "title": "ctrl",
+            "items": [
+              {
+                "title": "cfdna-fragsize-prjeb28329-bin-ctrl-plasma-ratio-ERR2752202.txt",
+                "url": "cfdna_fragsize/prjeb28329/ctrl/cfdna-fragsize-prjeb28329-bin-ctrl-plasma-ratio-ERR2752202.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjeb28329-bin-ctrl-plasma-ratio-ERR2752204.txt",
+                "url": "cfdna_fragsize/prjeb28329/ctrl/cfdna-fragsize-prjeb28329-bin-ctrl-plasma-ratio-ERR2752204.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjeb28329-bin-ctrl-plasma-ratio-ERR2752206.txt",
+                "url": "cfdna_fragsize/prjeb28329/ctrl/cfdna-fragsize-prjeb28329-bin-ctrl-plasma-ratio-ERR2752206.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjeb28329-bin-mean-plasma-ratio-ctrl.txt",
+                "url": "cfdna_fragsize/prjeb28329/ctrl/cfdna-fragsize-prjeb28329-bin-mean-plasma-ratio-ctrl.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjeb28329-gene-ctrl-plasma-ratio-ERR2752202.txt",
+                "url": "cfdna_fragsize/prjeb28329/ctrl/cfdna-fragsize-prjeb28329-gene-ctrl-plasma-ratio-ERR2752202.txt"
+              }
+            ]
+          },
+          {
+            "title": "luca",
+            "items": [
+              {
+                "title": "cfdna-fragsize-prjeb28329-bin-luca-plasma-ratio-ERR2752192.txt",
+                "url": "cfdna_fragsize/prjeb28329/luca/cfdna-fragsize-prjeb28329-bin-luca-plasma-ratio-ERR2752192.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjeb28329-bin-luca-plasma-ratio-ERR2752194.txt",
+                "url": "cfdna_fragsize/prjeb28329/luca/cfdna-fragsize-prjeb28329-bin-luca-plasma-ratio-ERR2752194.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjeb28329-bin-luca-plasma-ratio-ERR2752196.txt",
+                "url": "cfdna_fragsize/prjeb28329/luca/cfdna-fragsize-prjeb28329-bin-luca-plasma-ratio-ERR2752196.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjeb28329-bin-luca-plasma-ratio-ERR2752198.txt",
+                "url": "cfdna_fragsize/prjeb28329/luca/cfdna-fragsize-prjeb28329-bin-luca-plasma-ratio-ERR2752198.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjeb28329-bin-luca-plasma-ratio-ERR2752200.txt",
+                "url": "cfdna_fragsize/prjeb28329/luca/cfdna-fragsize-prjeb28329-bin-luca-plasma-ratio-ERR2752200.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      },
+      {
+        "title": "prjna687345",
+        "items": [
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfdna-fragsize-prjna687345-bin-crc-plasma-ratio-SRR13336076.txt",
+                "url": "cfdna_fragsize/prjna687345/crc/cfdna-fragsize-prjna687345-bin-crc-plasma-ratio-SRR13336076.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjna687345-bin-crc-plasma-ratio-SRR13336077.txt",
+                "url": "cfdna_fragsize/prjna687345/crc/cfdna-fragsize-prjna687345-bin-crc-plasma-ratio-SRR13336077.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjna687345-bin-crc-plasma-ratio-SRR13336078.txt",
+                "url": "cfdna_fragsize/prjna687345/crc/cfdna-fragsize-prjna687345-bin-crc-plasma-ratio-SRR13336078.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjna687345-bin-crc-plasma-ratio-SRR13336081.txt",
+                "url": "cfdna_fragsize/prjna687345/crc/cfdna-fragsize-prjna687345-bin-crc-plasma-ratio-SRR13336081.txt"
+              },
+              {
+                "title": "cfdna-fragsize-prjna687345-bin-crc-plasma-ratio-SRR13336082.txt",
+                "url": "cfdna_fragsize/prjna687345/crc/cfdna-fragsize-prjna687345-bin-crc-plasma-ratio-SRR13336082.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "cfdna_no",
+    "items": [
+      {
+        "title": "gse113386",
+        "items": [
+          {
+            "title": "cll",
+            "items": [
+              {
+                "title": "cfdna-no-gse113386-15t5-cll-blood-noratio-SRR7041581.txt",
+                "url": "cfdna_no/gse113386/cll/cfdna-no-gse113386-15t5-cll-blood-noratio-SRR7041581.txt"
+              },
+              {
+                "title": "cfdna-no-gse113386-15t5-cll-blood-noratio-SRR7041582.txt",
+                "url": "cfdna_no/gse113386/cll/cfdna-no-gse113386-15t5-cll-blood-noratio-SRR7041582.txt"
+              },
+              {
+                "title": "cfdna-no-gse113386-31e1-cll-blood-noratio-SRR7041581.txt",
+                "url": "cfdna_no/gse113386/cll/cfdna-no-gse113386-31e1-cll-blood-noratio-SRR7041581.txt"
+              },
+              {
+                "title": "cfdna-no-gse113386-31e1-cll-blood-noratio-SRR7041582.txt",
+                "url": "cfdna_no/gse113386/cll/cfdna-no-gse113386-31e1-cll-blood-noratio-SRR7041582.txt"
+              }
+            ]
+          },
+          {
+            "title": "ctrl_hc",
+            "items": [
+              {
+                "title": "cfdna-no-gse113386-15t5-ctrl_hc-blood-noratio-SRR7041577.txt",
+                "url": "cfdna_no/gse113386/ctrl_hc/cfdna-no-gse113386-15t5-ctrl_hc-blood-noratio-SRR7041577.txt"
+              },
+              {
+                "title": "cfdna-no-gse113386-15t5-ctrl_hc-blood-noratio-SRR7041578.txt",
+                "url": "cfdna_no/gse113386/ctrl_hc/cfdna-no-gse113386-15t5-ctrl_hc-blood-noratio-SRR7041578.txt"
+              },
+              {
+                "title": "cfdna-no-gse113386-15t5-ctrl_hc-blood-noratio-SRR7041579.txt",
+                "url": "cfdna_no/gse113386/ctrl_hc/cfdna-no-gse113386-15t5-ctrl_hc-blood-noratio-SRR7041579.txt"
+              },
+              {
+                "title": "cfdna-no-gse113386-15t5-ctrl_hc-blood-noratio-SRR7041580.txt",
+                "url": "cfdna_no/gse113386/ctrl_hc/cfdna-no-gse113386-15t5-ctrl_hc-blood-noratio-SRR7041580.txt"
+              },
+              {
+                "title": "cfdna-no-gse113386-31e1-ctrl_hc-blood-noratio-SRR7041577.txt",
+                "url": "cfdna_no/gse113386/ctrl_hc/cfdna-no-gse113386-31e1-ctrl_hc-blood-noratio-SRR7041577.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse152631",
+        "items": [
+          {
+            "title": "prad",
+            "items": [
+              {
+                "title": "cfdna-no-gse152631-15t5-prad-plasma-noratio-SRR12030493.txt",
+                "url": "cfdna_no/gse152631/prad/cfdna-no-gse152631-15t5-prad-plasma-noratio-SRR12030493.txt"
+              },
+              {
+                "title": "cfdna-no-gse152631-15t5-prad-plasma-noratio-SRR12030497.txt",
+                "url": "cfdna_no/gse152631/prad/cfdna-no-gse152631-15t5-prad-plasma-noratio-SRR12030497.txt"
+              },
+              {
+                "title": "cfdna-no-gse152631-15t5-prad-plasma-noratio-SRR12030503.txt",
+                "url": "cfdna_no/gse152631/prad/cfdna-no-gse152631-15t5-prad-plasma-noratio-SRR12030503.txt"
+              },
+              {
+                "title": "cfdna-no-gse152631-15t5-prad-plasma-noratio-SRR12030509.txt",
+                "url": "cfdna_no/gse152631/prad/cfdna-no-gse152631-15t5-prad-plasma-noratio-SRR12030509.txt"
+              },
+              {
+                "title": "cfdna-no-gse152631-15t5-prad-plasma-noratio-SRR12030555.txt",
+                "url": "cfdna_no/gse152631/prad/cfdna-no-gse152631-15t5-prad-plasma-noratio-SRR12030555.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse73931",
+        "items": [
+          {
+            "title": "ctrl",
+            "items": [
+              {
+                "title": "cfdna-no-gse73931-15t5-ctrl-blood-noratio-SRR2634349.txt",
+                "url": "cfdna_no/gse73931/ctrl/cfdna-no-gse73931-15t5-ctrl-blood-noratio-SRR2634349.txt"
+              },
+              {
+                "title": "cfdna-no-gse73931-31e1-ctrl-blood-noratio-SRR2634349.txt",
+                "url": "cfdna_no/gse73931/ctrl/cfdna-no-gse73931-31e1-ctrl-blood-noratio-SRR2634349.txt"
+              }
+            ]
+          },
+          {
+            "title": "firefighter",
+            "items": [
+              {
+                "title": "cfdna-no-gse73931-15t5-firefighter-blood-noratio-SRR2634347.txt",
+                "url": "cfdna_no/gse73931/firefighter/cfdna-no-gse73931-15t5-firefighter-blood-noratio-SRR2634347.txt"
+              },
+              {
+                "title": "cfdna-no-gse73931-31e1-firefighter-blood-noratio-SRR2634347.txt",
+                "url": "cfdna_no/gse73931/firefighter/cfdna-no-gse73931-31e1-firefighter-blood-noratio-SRR2634347.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse81314",
+        "items": [
+          {
+            "title": "brca",
+            "items": [
+              {
+                "title": "cfdna-no-gse81314-15t5-brca-plasma-noratio-SRR5875044.txt",
+                "url": "cfdna_no/gse81314/brca/cfdna-no-gse81314-15t5-brca-plasma-noratio-SRR5875044.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-brca-plasma-noratio-SRR5875045.txt",
+                "url": "cfdna_no/gse81314/brca/cfdna-no-gse81314-15t5-brca-plasma-noratio-SRR5875045.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-31e1-brca-plasma-noratio-SRR5875044.txt",
+                "url": "cfdna_no/gse81314/brca/cfdna-no-gse81314-31e1-brca-plasma-noratio-SRR5875044.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-31e1-brca-plasma-noratio-SRR5875045.txt",
+                "url": "cfdna_no/gse81314/brca/cfdna-no-gse81314-31e1-brca-plasma-noratio-SRR5875045.txt"
+              }
+            ]
+          },
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfdna-no-gse81314-15t5-crc-plasma-noratio-SRR5875040.txt",
+                "url": "cfdna_no/gse81314/crc/cfdna-no-gse81314-15t5-crc-plasma-noratio-SRR5875040.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-crc-plasma-noratio-SRR5875041.txt",
+                "url": "cfdna_no/gse81314/crc/cfdna-no-gse81314-15t5-crc-plasma-noratio-SRR5875041.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-crc-plasma-noratio-SRR5875042.txt",
+                "url": "cfdna_no/gse81314/crc/cfdna-no-gse81314-15t5-crc-plasma-noratio-SRR5875042.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-crc-plasma-noratio-SRR5875043.txt",
+                "url": "cfdna_no/gse81314/crc/cfdna-no-gse81314-15t5-crc-plasma-noratio-SRR5875043.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-31e1-crc-plasma-noratio-SRR5875040.txt",
+                "url": "cfdna_no/gse81314/crc/cfdna-no-gse81314-31e1-crc-plasma-noratio-SRR5875040.txt"
+              }
+            ]
+          },
+          {
+            "title": "ctrl_hbvc",
+            "items": [
+              {
+                "title": "cfdna-no-gse81314-15t5-ctrl_hbvc-plasma-noratio-SRR5875046.txt",
+                "url": "cfdna_no/gse81314/ctrl_hbvc/cfdna-no-gse81314-15t5-ctrl_hbvc-plasma-noratio-SRR5875046.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-ctrl_hbvc-plasma-noratio-SRR5875047.txt",
+                "url": "cfdna_no/gse81314/ctrl_hbvc/cfdna-no-gse81314-15t5-ctrl_hbvc-plasma-noratio-SRR5875047.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-31e1-ctrl_hbvc-plasma-noratio-SRR5875046.txt",
+                "url": "cfdna_no/gse81314/ctrl_hbvc/cfdna-no-gse81314-31e1-ctrl_hbvc-plasma-noratio-SRR5875046.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-31e1-ctrl_hbvc-plasma-noratio-SRR5875047.txt",
+                "url": "cfdna_no/gse81314/ctrl_hbvc/cfdna-no-gse81314-31e1-ctrl_hbvc-plasma-noratio-SRR5875047.txt"
+              }
+            ]
+          },
+          {
+            "title": "ctrl_hc",
+            "items": [
+              {
+                "title": "cfdna-no-gse81314-15t5-ctrl_hc-plasma-noratio-SRR5875048.txt",
+                "url": "cfdna_no/gse81314/ctrl_hc/cfdna-no-gse81314-15t5-ctrl_hc-plasma-noratio-SRR5875048.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-ctrl_hc-plasma-noratio-SRR5875049.txt",
+                "url": "cfdna_no/gse81314/ctrl_hc/cfdna-no-gse81314-15t5-ctrl_hc-plasma-noratio-SRR5875049.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-ctrl_hc-plasma-noratio-SRR5875050.txt",
+                "url": "cfdna_no/gse81314/ctrl_hc/cfdna-no-gse81314-15t5-ctrl_hc-plasma-noratio-SRR5875050.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-ctrl_hc-plasma-noratio-SRR5875051.txt",
+                "url": "cfdna_no/gse81314/ctrl_hc/cfdna-no-gse81314-15t5-ctrl_hc-plasma-noratio-SRR5875051.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-31e1-ctrl_hc-plasma-noratio-SRR5875048.txt",
+                "url": "cfdna_no/gse81314/ctrl_hc/cfdna-no-gse81314-31e1-ctrl_hc-plasma-noratio-SRR5875048.txt"
+              }
+            ]
+          },
+          {
+            "title": "gbm",
+            "items": [
+              {
+                "title": "cfdna-no-gse81314-15t5-gbm-plasma-noratio-SRR5875014.txt",
+                "url": "cfdna_no/gse81314/gbm/cfdna-no-gse81314-15t5-gbm-plasma-noratio-SRR5875014.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-gbm-plasma-noratio-SRR5875015.txt",
+                "url": "cfdna_no/gse81314/gbm/cfdna-no-gse81314-15t5-gbm-plasma-noratio-SRR5875015.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-gbm-plasma-noratio-SRR5875026.txt",
+                "url": "cfdna_no/gse81314/gbm/cfdna-no-gse81314-15t5-gbm-plasma-noratio-SRR5875026.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-gbm-plasma-noratio-SRR5875027.txt",
+                "url": "cfdna_no/gse81314/gbm/cfdna-no-gse81314-15t5-gbm-plasma-noratio-SRR5875027.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-31e1-gbm-plasma-noratio-SRR5875014.txt",
+                "url": "cfdna_no/gse81314/gbm/cfdna-no-gse81314-31e1-gbm-plasma-noratio-SRR5875014.txt"
+              }
+            ]
+          },
+          {
+            "title": "gc",
+            "items": [
+              {
+                "title": "cfdna-no-gse81314-15t5-gc-plasma-noratio-SRR5875016.txt",
+                "url": "cfdna_no/gse81314/gc/cfdna-no-gse81314-15t5-gc-plasma-noratio-SRR5875016.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-gc-plasma-noratio-SRR5875017.txt",
+                "url": "cfdna_no/gse81314/gc/cfdna-no-gse81314-15t5-gc-plasma-noratio-SRR5875017.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-gc-plasma-noratio-SRR5875028.txt",
+                "url": "cfdna_no/gse81314/gc/cfdna-no-gse81314-15t5-gc-plasma-noratio-SRR5875028.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-gc-plasma-noratio-SRR5875029.txt",
+                "url": "cfdna_no/gse81314/gc/cfdna-no-gse81314-15t5-gc-plasma-noratio-SRR5875029.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-31e1-gc-plasma-noratio-SRR5875016.txt",
+                "url": "cfdna_no/gse81314/gc/cfdna-no-gse81314-31e1-gc-plasma-noratio-SRR5875016.txt"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfdna-no-gse81314-15t5-lihc-plasma-noratio-SRR5875012.txt",
+                "url": "cfdna_no/gse81314/lihc/cfdna-no-gse81314-15t5-lihc-plasma-noratio-SRR5875012.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-lihc-plasma-noratio-SRR5875030.txt",
+                "url": "cfdna_no/gse81314/lihc/cfdna-no-gse81314-15t5-lihc-plasma-noratio-SRR5875030.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-lihc-plasma-noratio-SRR5875031.txt",
+                "url": "cfdna_no/gse81314/lihc/cfdna-no-gse81314-15t5-lihc-plasma-noratio-SRR5875031.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-lihc-plasma-noratio-SRR5875032.txt",
+                "url": "cfdna_no/gse81314/lihc/cfdna-no-gse81314-15t5-lihc-plasma-noratio-SRR5875032.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-lihc-plasma-noratio-SRR5875033.txt",
+                "url": "cfdna_no/gse81314/lihc/cfdna-no-gse81314-15t5-lihc-plasma-noratio-SRR5875033.txt"
+              }
+            ]
+          },
+          {
+            "title": "luca",
+            "items": [
+              {
+                "title": "cfdna-no-gse81314-15t5-luca-plasma-noratio-SRR5875013.txt",
+                "url": "cfdna_no/gse81314/luca/cfdna-no-gse81314-15t5-luca-plasma-noratio-SRR5875013.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-luca-plasma-noratio-SRR5875018.txt",
+                "url": "cfdna_no/gse81314/luca/cfdna-no-gse81314-15t5-luca-plasma-noratio-SRR5875018.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-luca-plasma-noratio-SRR5875019.txt",
+                "url": "cfdna_no/gse81314/luca/cfdna-no-gse81314-15t5-luca-plasma-noratio-SRR5875019.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-luca-plasma-noratio-SRR5875020.txt",
+                "url": "cfdna_no/gse81314/luca/cfdna-no-gse81314-15t5-luca-plasma-noratio-SRR5875020.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-luca-plasma-noratio-SRR5875021.txt",
+                "url": "cfdna_no/gse81314/luca/cfdna-no-gse81314-15t5-luca-plasma-noratio-SRR5875021.txt"
+              }
+            ]
+          },
+          {
+            "title": "paad",
+            "items": [
+              {
+                "title": "cfdna-no-gse81314-15t5-paad-plasma-noratio-SRR5875010.txt",
+                "url": "cfdna_no/gse81314/paad/cfdna-no-gse81314-15t5-paad-plasma-noratio-SRR5875010.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-paad-plasma-noratio-SRR5875011.txt",
+                "url": "cfdna_no/gse81314/paad/cfdna-no-gse81314-15t5-paad-plasma-noratio-SRR5875011.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-paad-plasma-noratio-SRR5875034.txt",
+                "url": "cfdna_no/gse81314/paad/cfdna-no-gse81314-15t5-paad-plasma-noratio-SRR5875034.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-paad-plasma-noratio-SRR5875035.txt",
+                "url": "cfdna_no/gse81314/paad/cfdna-no-gse81314-15t5-paad-plasma-noratio-SRR5875035.txt"
+              },
+              {
+                "title": "cfdna-no-gse81314-15t5-paad-plasma-noratio-SRR5875037.txt",
+                "url": "cfdna_no/gse81314/paad/cfdna-no-gse81314-15t5-paad-plasma-noratio-SRR5875037.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "prjeb28329",
+        "items": [
+          {
+            "title": "ctrl",
+            "items": [
+              {
+                "title": "cfdna-no-prjeb28329-15t5-ctrl-plasma-noratio-ERR2752202.txt",
+                "url": "cfdna_no/prjeb28329/ctrl/cfdna-no-prjeb28329-15t5-ctrl-plasma-noratio-ERR2752202.txt"
+              },
+              {
+                "title": "cfdna-no-prjeb28329-15t5-ctrl-plasma-noratio-ERR2752204.txt",
+                "url": "cfdna_no/prjeb28329/ctrl/cfdna-no-prjeb28329-15t5-ctrl-plasma-noratio-ERR2752204.txt"
+              },
+              {
+                "title": "cfdna-no-prjeb28329-15t5-ctrl-plasma-noratio-ERR2752206.txt",
+                "url": "cfdna_no/prjeb28329/ctrl/cfdna-no-prjeb28329-15t5-ctrl-plasma-noratio-ERR2752206.txt"
+              },
+              {
+                "title": "cfdna-no-prjeb28329-31e1-ctrl-plasma-noratio-ERR2752202.txt",
+                "url": "cfdna_no/prjeb28329/ctrl/cfdna-no-prjeb28329-31e1-ctrl-plasma-noratio-ERR2752202.txt"
+              },
+              {
+                "title": "cfdna-no-prjeb28329-31e1-ctrl-plasma-noratio-ERR2752204.txt",
+                "url": "cfdna_no/prjeb28329/ctrl/cfdna-no-prjeb28329-31e1-ctrl-plasma-noratio-ERR2752204.txt"
+              }
+            ]
+          },
+          {
+            "title": "luca",
+            "items": [
+              {
+                "title": "cfdna-no-prjeb28329-15t5-luca-plasma-noratio-ERR2752192.txt",
+                "url": "cfdna_no/prjeb28329/luca/cfdna-no-prjeb28329-15t5-luca-plasma-noratio-ERR2752192.txt"
+              },
+              {
+                "title": "cfdna-no-prjeb28329-15t5-luca-plasma-noratio-ERR2752194.txt",
+                "url": "cfdna_no/prjeb28329/luca/cfdna-no-prjeb28329-15t5-luca-plasma-noratio-ERR2752194.txt"
+              },
+              {
+                "title": "cfdna-no-prjeb28329-15t5-luca-plasma-noratio-ERR2752196.txt",
+                "url": "cfdna_no/prjeb28329/luca/cfdna-no-prjeb28329-15t5-luca-plasma-noratio-ERR2752196.txt"
+              },
+              {
+                "title": "cfdna-no-prjeb28329-15t5-luca-plasma-noratio-ERR2752198.txt",
+                "url": "cfdna_no/prjeb28329/luca/cfdna-no-prjeb28329-15t5-luca-plasma-noratio-ERR2752198.txt"
+              },
+              {
+                "title": "cfdna-no-prjeb28329-15t5-luca-plasma-noratio-ERR2752200.txt",
+                "url": "cfdna_no/prjeb28329/luca/cfdna-no-prjeb28329-15t5-luca-plasma-noratio-ERR2752200.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "prjna687345",
+        "items": [
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfdna-no-prjna687345-15t5-crc-plasma-noratio-SRR13336076.txt",
+                "url": "cfdna_no/prjna687345/crc/cfdna-no-prjna687345-15t5-crc-plasma-noratio-SRR13336076.txt"
+              },
+              {
+                "title": "cfdna-no-prjna687345-15t5-crc-plasma-noratio-SRR13336077.txt",
+                "url": "cfdna_no/prjna687345/crc/cfdna-no-prjna687345-15t5-crc-plasma-noratio-SRR13336077.txt"
+              },
+              {
+                "title": "cfdna-no-prjna687345-15t5-crc-plasma-noratio-SRR13336078.txt",
+                "url": "cfdna_no/prjna687345/crc/cfdna-no-prjna687345-15t5-crc-plasma-noratio-SRR13336078.txt"
+              },
+              {
+                "title": "cfdna-no-prjna687345-15t5-crc-plasma-noratio-SRR13336081.txt",
+                "url": "cfdna_no/prjna687345/crc/cfdna-no-prjna687345-15t5-crc-plasma-noratio-SRR13336081.txt"
+              },
+              {
+                "title": "cfdna-no-prjna687345-15t5-crc-plasma-noratio-SRR13336082.txt",
+                "url": "cfdna_no/prjna687345/crc/cfdna-no-prjna687345-15t5-crc-plasma-noratio-SRR13336082.txt"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "cfrna_align",
+    "items": [
+      {
+        "title": "gse106804",
+        "items": [
+          {
+            "title": "ct_hc",
+            "items": [
+              {
+                "title": "cfrna-expr-gse106804-gene-ct_hc-plasma-tpm-srr6282705.bw",
+                "url": "cfrna_align/gse106804/ct_hc/cfrna-expr-gse106804-gene-ct_hc-plasma-tpm-srr6282705.bw"
+              },
+              {
+                "title": "cfrna-expr-gse106804-gene-ct_hc-plasma-tpm-srr6282706.bw",
+                "url": "cfrna_align/gse106804/ct_hc/cfrna-expr-gse106804-gene-ct_hc-plasma-tpm-srr6282706.bw"
+              },
+              {
+                "title": "cfrna-expr-gse106804-gene-ct_hc-plasma-tpm-srr6282708.bw",
+                "url": "cfrna_align/gse106804/ct_hc/cfrna-expr-gse106804-gene-ct_hc-plasma-tpm-srr6282708.bw"
+              },
+              {
+                "title": "cfrna-expr-gse106804-gene-ct_hc-plasma-tpm-srr6282709.bw",
+                "url": "cfrna_align/gse106804/ct_hc/cfrna-expr-gse106804-gene-ct_hc-plasma-tpm-srr6282709.bw"
+              },
+              {
+                "title": "cfrna-expr-gse106804-gene-ct_hc-serum-tpm-srr6282704.bw",
+                "url": "cfrna_align/gse106804/ct_hc/cfrna-expr-gse106804-gene-ct_hc-serum-tpm-srr6282704.bw"
+              }
+            ]
+          },
+          {
+            "title": "gbm",
+            "items": [
+              {
+                "title": "cfrna-expr-gse106804-gene-gbm-plasma-tpm-srr6282692.bw",
+                "url": "cfrna_align/gse106804/gbm/cfrna-expr-gse106804-gene-gbm-plasma-tpm-srr6282692.bw"
+              },
+              {
+                "title": "cfrna-expr-gse106804-gene-gbm-plasma-tpm-srr6282693.bw",
+                "url": "cfrna_align/gse106804/gbm/cfrna-expr-gse106804-gene-gbm-plasma-tpm-srr6282693.bw"
+              },
+              {
+                "title": "cfrna-expr-gse106804-gene-gbm-plasma-tpm-srr6282695.bw",
+                "url": "cfrna_align/gse106804/gbm/cfrna-expr-gse106804-gene-gbm-plasma-tpm-srr6282695.bw"
+              },
+              {
+                "title": "cfrna-expr-gse106804-gene-gbm-plasma-tpm-srr6282696.bw",
+                "url": "cfrna_align/gse106804/gbm/cfrna-expr-gse106804-gene-gbm-plasma-tpm-srr6282696.bw"
+              },
+              {
+                "title": "cfrna-expr-gse106804-gene-gbm-plasma-tpm-srr6282697.bw",
+                "url": "cfrna_align/gse106804/gbm/cfrna-expr-gse106804-gene-gbm-plasma-tpm-srr6282697.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse117623",
+        "items": [
+          {
+            "title": "ct_cld",
+            "items": [
+              {
+                "title": "cfrna-expr-gse117623-gene-ct_cld-cec-tpm-srr7607871.bw",
+                "url": "cfrna_align/gse117623/ct_cld/cfrna-expr-gse117623-gene-ct_cld-cec-tpm-srr7607871.bw"
+              },
+              {
+                "title": "cfrna-expr-gse117623-gene-ct_cld-cec-tpm-srr7607872.bw",
+                "url": "cfrna_align/gse117623/ct_cld/cfrna-expr-gse117623-gene-ct_cld-cec-tpm-srr7607872.bw"
+              },
+              {
+                "title": "cfrna-expr-gse117623-gene-ct_cld-cec-tpm-srr7607873.bw",
+                "url": "cfrna_align/gse117623/ct_cld/cfrna-expr-gse117623-gene-ct_cld-cec-tpm-srr7607873.bw"
+              },
+              {
+                "title": "cfrna-expr-gse117623-gene-ct_cld-cec-tpm-srr7607874.bw",
+                "url": "cfrna_align/gse117623/ct_cld/cfrna-expr-gse117623-gene-ct_cld-cec-tpm-srr7607874.bw"
+              },
+              {
+                "title": "cfrna-expr-gse117623-gene-ct_cld-cec-tpm-srr7607875.bw",
+                "url": "cfrna_align/gse117623/ct_cld/cfrna-expr-gse117623-gene-ct_cld-cec-tpm-srr7607875.bw"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-expr-gse117623-gene-lihc-cec-tpm-srr7607935.bw",
+                "url": "cfrna_align/gse117623/lihc/cfrna-expr-gse117623-gene-lihc-cec-tpm-srr7607935.bw"
+              },
+              {
+                "title": "cfrna-expr-gse117623-gene-lihc-cec-tpm-srr7607936.bw",
+                "url": "cfrna_align/gse117623/lihc/cfrna-expr-gse117623-gene-lihc-cec-tpm-srr7607936.bw"
+              },
+              {
+                "title": "cfrna-expr-gse117623-gene-lihc-cec-tpm-srr7607937.bw",
+                "url": "cfrna_align/gse117623/lihc/cfrna-expr-gse117623-gene-lihc-cec-tpm-srr7607937.bw"
+              },
+              {
+                "title": "cfrna-expr-gse117623-gene-lihc-cec-tpm-srr7607938.bw",
+                "url": "cfrna_align/gse117623/lihc/cfrna-expr-gse117623-gene-lihc-cec-tpm-srr7607938.bw"
+              },
+              {
+                "title": "cfrna-expr-gse117623-gene-lihc-cec-tpm-srr7607939.bw",
+                "url": "cfrna_align/gse117623/lihc/cfrna-expr-gse117623-gene-lihc-cec-tpm-srr7607939.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse120663",
+        "items": [
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-expr-gse120663-gene-ct-pbmc-tpm-srr7944833.bw",
+                "url": "cfrna_align/gse120663/ct/cfrna-expr-gse120663-gene-ct-pbmc-tpm-srr7944833.bw"
+              },
+              {
+                "title": "cfrna-expr-gse120663-gene-ct-pbmc-tpm-srr7944834.bw",
+                "url": "cfrna_align/gse120663/ct/cfrna-expr-gse120663-gene-ct-pbmc-tpm-srr7944834.bw"
+              },
+              {
+                "title": "cfrna-expr-gse120663-gene-ct-pbmc-tpm-srr7944835.bw",
+                "url": "cfrna_align/gse120663/ct/cfrna-expr-gse120663-gene-ct-pbmc-tpm-srr7944835.bw"
+              },
+              {
+                "title": "cfrna-expr-gse120663-gene-ct-pbmc-tpm-srr7944836.bw",
+                "url": "cfrna_align/gse120663/ct/cfrna-expr-gse120663-gene-ct-pbmc-tpm-srr7944836.bw"
+              },
+              {
+                "title": "cfrna-expr-gse120663-gene-ct-pbmc-tpm-srr7944837.bw",
+                "url": "cfrna_align/gse120663/ct/cfrna-expr-gse120663-gene-ct-pbmc-tpm-srr7944837.bw"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-expr-gse120663-gene-lihc-pbmc-tpm-srr7944825.bw",
+                "url": "cfrna_align/gse120663/lihc/cfrna-expr-gse120663-gene-lihc-pbmc-tpm-srr7944825.bw"
+              },
+              {
+                "title": "cfrna-expr-gse120663-gene-lihc-pbmc-tpm-srr7944826.bw",
+                "url": "cfrna_align/gse120663/lihc/cfrna-expr-gse120663-gene-lihc-pbmc-tpm-srr7944826.bw"
+              },
+              {
+                "title": "cfrna-expr-gse120663-gene-lihc-pbmc-tpm-srr7944827.bw",
+                "url": "cfrna_align/gse120663/lihc/cfrna-expr-gse120663-gene-lihc-pbmc-tpm-srr7944827.bw"
+              },
+              {
+                "title": "cfrna-expr-gse120663-gene-lihc-pbmc-tpm-srr7944828.bw",
+                "url": "cfrna_align/gse120663/lihc/cfrna-expr-gse120663-gene-lihc-pbmc-tpm-srr7944828.bw"
+              },
+              {
+                "title": "cfrna-expr-gse120663-gene-lihc-pbmc-tpm-srr7944829.bw",
+                "url": "cfrna_align/gse120663/lihc/cfrna-expr-gse120663-gene-lihc-pbmc-tpm-srr7944829.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse125442",
+        "items": [
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-expr-gse125442-gene-ct-urine-tpm-srr8471394.bw",
+                "url": "cfrna_align/gse125442/ct/cfrna-expr-gse125442-gene-ct-urine-tpm-srr8471394.bw"
+              },
+              {
+                "title": "cfrna-expr-gse125442-gene-ct-urine-tpm-srr8471395.bw",
+                "url": "cfrna_align/gse125442/ct/cfrna-expr-gse125442-gene-ct-urine-tpm-srr8471395.bw"
+              },
+              {
+                "title": "cfrna-expr-gse125442-gene-ct-urine-tpm-srr8471396.bw",
+                "url": "cfrna_align/gse125442/ct/cfrna-expr-gse125442-gene-ct-urine-tpm-srr8471396.bw"
+              },
+              {
+                "title": "cfrna-expr-gse125442-gene-ct-urine-tpm-srr8471398.bw",
+                "url": "cfrna_align/gse125442/ct/cfrna-expr-gse125442-gene-ct-urine-tpm-srr8471398.bw"
+              },
+              {
+                "title": "cfrna-expr-gse125442-gene-ct-urine-tpm-srr8471399.bw",
+                "url": "cfrna_align/gse125442/ct/cfrna-expr-gse125442-gene-ct-urine-tpm-srr8471399.bw"
+              }
+            ]
+          },
+          {
+            "title": "kirc",
+            "items": [
+              {
+                "title": "cfrna-expr-gse125442-gene-kirc-urine-tpm-srr8471384.bw",
+                "url": "cfrna_align/gse125442/kirc/cfrna-expr-gse125442-gene-kirc-urine-tpm-srr8471384.bw"
+              },
+              {
+                "title": "cfrna-expr-gse125442-gene-kirc-urine-tpm-srr8471385.bw",
+                "url": "cfrna_align/gse125442/kirc/cfrna-expr-gse125442-gene-kirc-urine-tpm-srr8471385.bw"
+              },
+              {
+                "title": "cfrna-expr-gse125442-gene-kirc-urine-tpm-srr8471386.bw",
+                "url": "cfrna_align/gse125442/kirc/cfrna-expr-gse125442-gene-kirc-urine-tpm-srr8471386.bw"
+              },
+              {
+                "title": "cfrna-expr-gse125442-gene-kirc-urine-tpm-srr8471387.bw",
+                "url": "cfrna_align/gse125442/kirc/cfrna-expr-gse125442-gene-kirc-urine-tpm-srr8471387.bw"
+              },
+              {
+                "title": "cfrna-expr-gse125442-gene-kirc-urine-tpm-srr8471388.bw",
+                "url": "cfrna_align/gse125442/kirc/cfrna-expr-gse125442-gene-kirc-urine-tpm-srr8471388.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse133684",
+        "items": [
+          {
+            "title": "ct_cp",
+            "items": [
+              {
+                "title": "cfrna-expr-gse133684-gene-ct_cp-ev-tpm-srr10080437.bw",
+                "url": "cfrna_align/gse133684/ct_cp/cfrna-expr-gse133684-gene-ct_cp-ev-tpm-srr10080437.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-ct_cp-ev-tpm-srr10080438.bw",
+                "url": "cfrna_align/gse133684/ct_cp/cfrna-expr-gse133684-gene-ct_cp-ev-tpm-srr10080438.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-ct_cp-ev-tpm-srr10080439.bw",
+                "url": "cfrna_align/gse133684/ct_cp/cfrna-expr-gse133684-gene-ct_cp-ev-tpm-srr10080439.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-ct_cp-ev-tpm-srr10080440.bw",
+                "url": "cfrna_align/gse133684/ct_cp/cfrna-expr-gse133684-gene-ct_cp-ev-tpm-srr10080440.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-ct_cp-ev-tpm-srr10080441.bw",
+                "url": "cfrna_align/gse133684/ct_cp/cfrna-expr-gse133684-gene-ct_cp-ev-tpm-srr10080441.bw"
+              }
+            ]
+          },
+          {
+            "title": "ct_hc",
+            "items": [
+              {
+                "title": "cfrna-expr-gse133684-gene-ct_hc-ev-tpm-srr10080507.bw",
+                "url": "cfrna_align/gse133684/ct_hc/cfrna-expr-gse133684-gene-ct_hc-ev-tpm-srr10080507.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-ct_hc-ev-tpm-srr10080508.bw",
+                "url": "cfrna_align/gse133684/ct_hc/cfrna-expr-gse133684-gene-ct_hc-ev-tpm-srr10080508.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-ct_hc-ev-tpm-srr10080509.bw",
+                "url": "cfrna_align/gse133684/ct_hc/cfrna-expr-gse133684-gene-ct_hc-ev-tpm-srr10080509.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-ct_hc-ev-tpm-srr10080510.bw",
+                "url": "cfrna_align/gse133684/ct_hc/cfrna-expr-gse133684-gene-ct_hc-ev-tpm-srr10080510.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-ct_hc-ev-tpm-srr10080511.bw",
+                "url": "cfrna_align/gse133684/ct_hc/cfrna-expr-gse133684-gene-ct_hc-ev-tpm-srr10080511.bw"
+              }
+            ]
+          },
+          {
+            "title": "pdac",
+            "items": [
+              {
+                "title": "cfrna-expr-gse133684-gene-pdac-ev-tpm-srr10080544.bw",
+                "url": "cfrna_align/gse133684/pdac/cfrna-expr-gse133684-gene-pdac-ev-tpm-srr10080544.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-pdac-ev-tpm-srr10080545.bw",
+                "url": "cfrna_align/gse133684/pdac/cfrna-expr-gse133684-gene-pdac-ev-tpm-srr10080545.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-pdac-ev-tpm-srr10080546.bw",
+                "url": "cfrna_align/gse133684/pdac/cfrna-expr-gse133684-gene-pdac-ev-tpm-srr10080546.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-pdac-ev-tpm-srr10080547.bw",
+                "url": "cfrna_align/gse133684/pdac/cfrna-expr-gse133684-gene-pdac-ev-tpm-srr10080547.bw"
+              },
+              {
+                "title": "cfrna-expr-gse133684-gene-pdac-ev-tpm-srr10080548.bw",
+                "url": "cfrna_align/gse133684/pdac/cfrna-expr-gse133684-gene-pdac-ev-tpm-srr10080548.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse40174",
+        "items": [
+          {
+            "title": "ct_hc",
+            "items": [
+              {
+                "title": "cfrna-expr-gse40174-gene-ct_hc-ctc-tpm-srr543502.bw",
+                "url": "cfrna_align/gse40174/ct_hc/cfrna-expr-gse40174-gene-ct_hc-ctc-tpm-srr543502.bw"
+              },
+              {
+                "title": "cfrna-expr-gse40174-gene-ct_hc-ctc-tpm-srr543503.bw",
+                "url": "cfrna_align/gse40174/ct_hc/cfrna-expr-gse40174-gene-ct_hc-ctc-tpm-srr543503.bw"
+              },
+              {
+                "title": "cfrna-expr-gse40174-gene-ct_hc-ctc-tpm-srr543504.bw",
+                "url": "cfrna_align/gse40174/ct_hc/cfrna-expr-gse40174-gene-ct_hc-ctc-tpm-srr543504.bw"
+              },
+              {
+                "title": "cfrna-expr-gse40174-gene-ct_hc-ctc-tpm-srr543505.bw",
+                "url": "cfrna_align/gse40174/ct_hc/cfrna-expr-gse40174-gene-ct_hc-ctc-tpm-srr543505.bw"
+              },
+              {
+                "title": "cfrna-expr-gse40174-gene-ct_hc-ctc-tpm-srr543506.bw",
+                "url": "cfrna_align/gse40174/ct_hc/cfrna-expr-gse40174-gene-ct_hc-ctc-tpm-srr543506.bw"
+              }
+            ]
+          },
+          {
+            "title": "paad",
+            "items": [
+              {
+                "title": "cfrna-expr-gse40174-gene-paad-ctc-tpm-srr543510.bw",
+                "url": "cfrna_align/gse40174/paad/cfrna-expr-gse40174-gene-paad-ctc-tpm-srr543510.bw"
+              },
+              {
+                "title": "cfrna-expr-gse40174-gene-paad-ctc-tpm-srr543511.bw",
+                "url": "cfrna_align/gse40174/paad/cfrna-expr-gse40174-gene-paad-ctc-tpm-srr543511.bw"
+              },
+              {
+                "title": "cfrna-expr-gse40174-gene-paad-ctc-tpm-srr543512.bw",
+                "url": "cfrna_align/gse40174/paad/cfrna-expr-gse40174-gene-paad-ctc-tpm-srr543512.bw"
+              },
+              {
+                "title": "cfrna-expr-gse40174-gene-paad-ctc-tpm-srr543513.bw",
+                "url": "cfrna_align/gse40174/paad/cfrna-expr-gse40174-gene-paad-ctc-tpm-srr543513.bw"
+              },
+              {
+                "title": "cfrna-expr-gse40174-gene-paad-ctc-tpm-srr543514.bw",
+                "url": "cfrna_align/gse40174/paad/cfrna-expr-gse40174-gene-paad-ctc-tpm-srr543514.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse68086",
+        "items": [
+          {
+            "title": "brca",
+            "items": [
+              {
+                "title": "cfrna-apa-gse68086-entity-brca-tep-pdui-srr1982584.bw",
+                "url": "cfrna_align/gse68086/brca/cfrna-apa-gse68086-entity-brca-tep-pdui-srr1982584.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-brca-tep-pdui-srr1982585.bw",
+                "url": "cfrna_align/gse68086/brca/cfrna-apa-gse68086-entity-brca-tep-pdui-srr1982585.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-brca-tep-pdui-srr1982586.bw",
+                "url": "cfrna_align/gse68086/brca/cfrna-apa-gse68086-entity-brca-tep-pdui-srr1982586.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-brca-tep-pdui-srr1982587.bw",
+                "url": "cfrna_align/gse68086/brca/cfrna-apa-gse68086-entity-brca-tep-pdui-srr1982587.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-brca-tep-pdui-srr1982588.bw",
+                "url": "cfrna_align/gse68086/brca/cfrna-apa-gse68086-entity-brca-tep-pdui-srr1982588.bw"
+              }
+            ]
+          },
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfrna-apa-gse68086-entity-crc-tep-pdui-srr1982618.bw",
+                "url": "cfrna_align/gse68086/crc/cfrna-apa-gse68086-entity-crc-tep-pdui-srr1982618.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-crc-tep-pdui-srr1982619.bw",
+                "url": "cfrna_align/gse68086/crc/cfrna-apa-gse68086-entity-crc-tep-pdui-srr1982619.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-crc-tep-pdui-srr1982620.bw",
+                "url": "cfrna_align/gse68086/crc/cfrna-apa-gse68086-entity-crc-tep-pdui-srr1982620.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-crc-tep-pdui-srr1982621.bw",
+                "url": "cfrna_align/gse68086/crc/cfrna-apa-gse68086-entity-crc-tep-pdui-srr1982621.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-crc-tep-pdui-srr1982622.bw",
+                "url": "cfrna_align/gse68086/crc/cfrna-apa-gse68086-entity-crc-tep-pdui-srr1982622.bw"
+              }
+            ]
+          },
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-apa-gse68086-entity-ct-tep-pdui-srr1982696.bw",
+                "url": "cfrna_align/gse68086/ct/cfrna-apa-gse68086-entity-ct-tep-pdui-srr1982696.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-ct-tep-pdui-srr1982697.bw",
+                "url": "cfrna_align/gse68086/ct/cfrna-apa-gse68086-entity-ct-tep-pdui-srr1982697.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-ct-tep-pdui-srr1982698.bw",
+                "url": "cfrna_align/gse68086/ct/cfrna-apa-gse68086-entity-ct-tep-pdui-srr1982698.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-ct-tep-pdui-srr1982699.bw",
+                "url": "cfrna_align/gse68086/ct/cfrna-apa-gse68086-entity-ct-tep-pdui-srr1982699.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-ct-tep-pdui-srr1982700.bw",
+                "url": "cfrna_align/gse68086/ct/cfrna-apa-gse68086-entity-ct-tep-pdui-srr1982700.bw"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-apa-gse68086-entity-lihc-tep-pdui-srr1982608.bw",
+                "url": "cfrna_align/gse68086/lihc/cfrna-apa-gse68086-entity-lihc-tep-pdui-srr1982608.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-lihc-tep-pdui-srr1982609.bw",
+                "url": "cfrna_align/gse68086/lihc/cfrna-apa-gse68086-entity-lihc-tep-pdui-srr1982609.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-lihc-tep-pdui-srr1982610.bw",
+                "url": "cfrna_align/gse68086/lihc/cfrna-apa-gse68086-entity-lihc-tep-pdui-srr1982610.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-lihc-tep-pdui-srr1982611.bw",
+                "url": "cfrna_align/gse68086/lihc/cfrna-apa-gse68086-entity-lihc-tep-pdui-srr1982611.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-lihc-tep-pdui-srr1982612.bw",
+                "url": "cfrna_align/gse68086/lihc/cfrna-apa-gse68086-entity-lihc-tep-pdui-srr1982612.bw"
+              }
+            ]
+          },
+          {
+            "title": "paad",
+            "items": [
+              {
+                "title": "cfrna-apa-gse68086-entity-paad-tep-pdui-srr1982796.bw",
+                "url": "cfrna_align/gse68086/paad/cfrna-apa-gse68086-entity-paad-tep-pdui-srr1982796.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-paad-tep-pdui-srr1982797.bw",
+                "url": "cfrna_align/gse68086/paad/cfrna-apa-gse68086-entity-paad-tep-pdui-srr1982797.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-paad-tep-pdui-srr1982798.bw",
+                "url": "cfrna_align/gse68086/paad/cfrna-apa-gse68086-entity-paad-tep-pdui-srr1982798.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-paad-tep-pdui-srr1982799.bw",
+                "url": "cfrna_align/gse68086/paad/cfrna-apa-gse68086-entity-paad-tep-pdui-srr1982799.bw"
+              },
+              {
+                "title": "cfrna-apa-gse68086-entity-paad-tep-pdui-srr1982800.bw",
+                "url": "cfrna_align/gse68086/paad/cfrna-apa-gse68086-entity-paad-tep-pdui-srr1982800.bw"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "srp061372",
+        "items": [
+          {
+            "title": "brca",
+            "items": [
+              {
+                "title": "cfrna-expr-srp061372-gene-brca-plasma-tpm-srr2121861.bw",
+                "url": "cfrna_align/srp061372/brca/cfrna-expr-srp061372-gene-brca-plasma-tpm-srr2121861.bw"
+              },
+              {
+                "title": "cfrna-expr-srp061372-gene-brca-plasma-tpm-srr2121862.bw",
+                "url": "cfrna_align/srp061372/brca/cfrna-expr-srp061372-gene-brca-plasma-tpm-srr2121862.bw"
+              },
+              {
+                "title": "cfrna-expr-srp061372-gene-brca-plasma-tpm-srr2121863.bw",
+                "url": "cfrna_align/srp061372/brca/cfrna-expr-srp061372-gene-brca-plasma-tpm-srr2121863.bw"
+              }
+            ]
+          },
+          {
+            "title": "ct_hc",
+            "items": [
+              {
+                "title": "cfrna-expr-srp061372-gene-ct_hc-plasma-tpm-srr2121886.bw",
+                "url": "cfrna_align/srp061372/ct_hc/cfrna-expr-srp061372-gene-ct_hc-plasma-tpm-srr2121886.bw"
+              },
+              {
+                "title": "cfrna-expr-srp061372-gene-ct_hc-plasma-tpm-srr2124116.bw",
+                "url": "cfrna_align/srp061372/ct_hc/cfrna-expr-srp061372-gene-ct_hc-plasma-tpm-srr2124116.bw"
+              },
+              {
+                "title": "cfrna-expr-srp061372-gene-ct_hc-plasma-tpm-srr2124118.bw",
+                "url": "cfrna_align/srp061372/ct_hc/cfrna-expr-srp061372-gene-ct_hc-plasma-tpm-srr2124118.bw"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "cfrna_chimeric",
+    "items": [
+      {
+        "title": "gse117623",
+        "items": [
+          {
+            "title": "ct_cld",
+            "items": [
+              {
+                "title": "cfrna-chim-gse117623-entity-ct_cld-cec-count-SRR7607872.txt",
+                "url": "cfrna_chimeric/gse117623/ct_cld/cfrna-chim-gse117623-entity-ct_cld-cec-count-SRR7607872.txt"
+              },
+              {
+                "title": "cfrna-chim-gse117623-entity-ct_cld-cec-count-SRR7607873.txt",
+                "url": "cfrna_chimeric/gse117623/ct_cld/cfrna-chim-gse117623-entity-ct_cld-cec-count-SRR7607873.txt"
+              },
+              {
+                "title": "cfrna-chim-gse117623-entity-ct_cld-cec-count-SRR7607874.txt",
+                "url": "cfrna_chimeric/gse117623/ct_cld/cfrna-chim-gse117623-entity-ct_cld-cec-count-SRR7607874.txt"
+              },
+              {
+                "title": "cfrna-chim-gse117623-entity-ct_cld-cec-count-SRR7607875.txt",
+                "url": "cfrna_chimeric/gse117623/ct_cld/cfrna-chim-gse117623-entity-ct_cld-cec-count-SRR7607875.txt"
+              },
+              {
+                "title": "cfrna-chim-gse117623-entity-ct_cld-cec-count-SRR7607876.txt",
+                "url": "cfrna_chimeric/gse117623/ct_cld/cfrna-chim-gse117623-entity-ct_cld-cec-count-SRR7607876.txt"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-chim-gse117623-entity-lihc-cec-count-SRR7607935.txt",
+                "url": "cfrna_chimeric/gse117623/lihc/cfrna-chim-gse117623-entity-lihc-cec-count-SRR7607935.txt"
+              },
+              {
+                "title": "cfrna-chim-gse117623-entity-lihc-cec-count-SRR7607936.txt",
+                "url": "cfrna_chimeric/gse117623/lihc/cfrna-chim-gse117623-entity-lihc-cec-count-SRR7607936.txt"
+              },
+              {
+                "title": "cfrna-chim-gse117623-entity-lihc-cec-count-SRR7607937.txt",
+                "url": "cfrna_chimeric/gse117623/lihc/cfrna-chim-gse117623-entity-lihc-cec-count-SRR7607937.txt"
+              },
+              {
+                "title": "cfrna-chim-gse117623-entity-lihc-cec-count-SRR7607938.txt",
+                "url": "cfrna_chimeric/gse117623/lihc/cfrna-chim-gse117623-entity-lihc-cec-count-SRR7607938.txt"
+              },
+              {
+                "title": "cfrna-chim-gse117623-entity-lihc-cec-count-SRR7607939.txt",
+                "url": "cfrna_chimeric/gse117623/lihc/cfrna-chim-gse117623-entity-lihc-cec-count-SRR7607939.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      },
+      {
+        "title": "gse120663",
+        "items": [
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-chim-gse120663-entity-ct-pbmc-count-SRR7944833.txt",
+                "url": "cfrna_chimeric/gse120663/ct/cfrna-chim-gse120663-entity-ct-pbmc-count-SRR7944833.txt"
+              },
+              {
+                "title": "cfrna-chim-gse120663-entity-ct-pbmc-count-SRR7944834.txt",
+                "url": "cfrna_chimeric/gse120663/ct/cfrna-chim-gse120663-entity-ct-pbmc-count-SRR7944834.txt"
+              },
+              {
+                "title": "cfrna-chim-gse120663-entity-ct-pbmc-count-SRR7944835.txt",
+                "url": "cfrna_chimeric/gse120663/ct/cfrna-chim-gse120663-entity-ct-pbmc-count-SRR7944835.txt"
+              },
+              {
+                "title": "cfrna-chim-gse120663-entity-ct-pbmc-count-SRR7944836.txt",
+                "url": "cfrna_chimeric/gse120663/ct/cfrna-chim-gse120663-entity-ct-pbmc-count-SRR7944836.txt"
+              },
+              {
+                "title": "cfrna-chim-gse120663-entity-ct-pbmc-count-SRR7944837.txt",
+                "url": "cfrna_chimeric/gse120663/ct/cfrna-chim-gse120663-entity-ct-pbmc-count-SRR7944837.txt"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-chim-gse120663-entity-lihc-pbmc-count-SRR7944826.txt",
+                "url": "cfrna_chimeric/gse120663/lihc/cfrna-chim-gse120663-entity-lihc-pbmc-count-SRR7944826.txt"
+              },
+              {
+                "title": "cfrna-chim-gse120663-entity-lihc-pbmc-count-SRR7944827.txt",
+                "url": "cfrna_chimeric/gse120663/lihc/cfrna-chim-gse120663-entity-lihc-pbmc-count-SRR7944827.txt"
+              },
+              {
+                "title": "cfrna-chim-gse120663-entity-lihc-pbmc-count-SRR7944828.txt",
+                "url": "cfrna_chimeric/gse120663/lihc/cfrna-chim-gse120663-entity-lihc-pbmc-count-SRR7944828.txt"
+              },
+              {
+                "title": "cfrna-chim-gse120663-entity-lihc-pbmc-count-SRR7944829.txt",
+                "url": "cfrna_chimeric/gse120663/lihc/cfrna-chim-gse120663-entity-lihc-pbmc-count-SRR7944829.txt"
+              },
+              {
+                "title": "cfrna-chim-gse120663-entity-lihc-pbmc-count-SRR7944830.txt",
+                "url": "cfrna_chimeric/gse120663/lihc/cfrna-chim-gse120663-entity-lihc-pbmc-count-SRR7944830.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      },
+      {
+        "title": "gse125442",
+        "items": [
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-chim-gse125442-entity-ct-urine-count-SRR8471394.txt",
+                "url": "cfrna_chimeric/gse125442/ct/cfrna-chim-gse125442-entity-ct-urine-count-SRR8471394.txt"
+              },
+              {
+                "title": "cfrna-chim-gse125442-entity-ct-urine-count-SRR8471395.txt",
+                "url": "cfrna_chimeric/gse125442/ct/cfrna-chim-gse125442-entity-ct-urine-count-SRR8471395.txt"
+              },
+              {
+                "title": "cfrna-chim-gse125442-entity-ct-urine-count-SRR8471396.txt",
+                "url": "cfrna_chimeric/gse125442/ct/cfrna-chim-gse125442-entity-ct-urine-count-SRR8471396.txt"
+              },
+              {
+                "title": "cfrna-chim-gse125442-entity-ct-urine-count-SRR8471397.txt",
+                "url": "cfrna_chimeric/gse125442/ct/cfrna-chim-gse125442-entity-ct-urine-count-SRR8471397.txt"
+              },
+              {
+                "title": "cfrna-chim-gse125442-entity-ct-urine-count-SRR8471398.txt",
+                "url": "cfrna_chimeric/gse125442/ct/cfrna-chim-gse125442-entity-ct-urine-count-SRR8471398.txt"
+              }
+            ]
+          },
+          {
+            "title": "kirc",
+            "items": [
+              {
+                "title": "cfrna-chim-gse125442-entity-kirc-urine-count-SRR8471385.txt",
+                "url": "cfrna_chimeric/gse125442/kirc/cfrna-chim-gse125442-entity-kirc-urine-count-SRR8471385.txt"
+              },
+              {
+                "title": "cfrna-chim-gse125442-entity-kirc-urine-count-SRR8471386.txt",
+                "url": "cfrna_chimeric/gse125442/kirc/cfrna-chim-gse125442-entity-kirc-urine-count-SRR8471386.txt"
+              },
+              {
+                "title": "cfrna-chim-gse125442-entity-kirc-urine-count-SRR8471387.txt",
+                "url": "cfrna_chimeric/gse125442/kirc/cfrna-chim-gse125442-entity-kirc-urine-count-SRR8471387.txt"
+              },
+              {
+                "title": "cfrna-chim-gse125442-entity-kirc-urine-count-SRR8471388.txt",
+                "url": "cfrna_chimeric/gse125442/kirc/cfrna-chim-gse125442-entity-kirc-urine-count-SRR8471388.txt"
+              },
+              {
+                "title": "cfrna-chim-gse125442-entity-kirc-urine-count-SRR8471389.txt",
+                "url": "cfrna_chimeric/gse125442/kirc/cfrna-chim-gse125442-entity-kirc-urine-count-SRR8471389.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      },
+      {
+        "title": "gse133684",
+        "items": [
+          {
+            "title": "ct_cp",
+            "items": [
+              {
+                "title": "cfrna-chim-gse133684-entity-ct_cp-ev-count-SRR10080437.txt",
+                "url": "cfrna_chimeric/gse133684/ct_cp/cfrna-chim-gse133684-entity-ct_cp-ev-count-SRR10080437.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-ct_cp-ev-count-SRR10080438.txt",
+                "url": "cfrna_chimeric/gse133684/ct_cp/cfrna-chim-gse133684-entity-ct_cp-ev-count-SRR10080438.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-ct_cp-ev-count-SRR10080439.txt",
+                "url": "cfrna_chimeric/gse133684/ct_cp/cfrna-chim-gse133684-entity-ct_cp-ev-count-SRR10080439.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-ct_cp-ev-count-SRR10080440.txt",
+                "url": "cfrna_chimeric/gse133684/ct_cp/cfrna-chim-gse133684-entity-ct_cp-ev-count-SRR10080440.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-ct_cp-ev-count-SRR10080441.txt",
+                "url": "cfrna_chimeric/gse133684/ct_cp/cfrna-chim-gse133684-entity-ct_cp-ev-count-SRR10080441.txt"
+              }
+            ]
+          },
+          {
+            "title": "ct_hc",
+            "items": [
+              {
+                "title": "cfrna-chim-gse133684-entity-ct_hc-ev-count-SRR10080507.txt",
+                "url": "cfrna_chimeric/gse133684/ct_hc/cfrna-chim-gse133684-entity-ct_hc-ev-count-SRR10080507.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-ct_hc-ev-count-SRR10080508.txt",
+                "url": "cfrna_chimeric/gse133684/ct_hc/cfrna-chim-gse133684-entity-ct_hc-ev-count-SRR10080508.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-ct_hc-ev-count-SRR10080509.txt",
+                "url": "cfrna_chimeric/gse133684/ct_hc/cfrna-chim-gse133684-entity-ct_hc-ev-count-SRR10080509.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-ct_hc-ev-count-SRR10080510.txt",
+                "url": "cfrna_chimeric/gse133684/ct_hc/cfrna-chim-gse133684-entity-ct_hc-ev-count-SRR10080510.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-ct_hc-ev-count-SRR10080511.txt",
+                "url": "cfrna_chimeric/gse133684/ct_hc/cfrna-chim-gse133684-entity-ct_hc-ev-count-SRR10080511.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": [
+              {
+                "title": "cfrna-chim-gse133684-entity-mean-ev-count-pdac.txt",
+                "url": "cfrna_chimeric/gse133684/mean/cfrna-chim-gse133684-entity-mean-ev-count-pdac.txt"
+              }
+            ]
+          },
+          {
+            "title": "pdac",
+            "items": [
+              {
+                "title": "cfrna-chim-gse133684-entity-pdac-ev-count-SRR10080544.txt",
+                "url": "cfrna_chimeric/gse133684/pdac/cfrna-chim-gse133684-entity-pdac-ev-count-SRR10080544.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-pdac-ev-count-SRR10080545.txt",
+                "url": "cfrna_chimeric/gse133684/pdac/cfrna-chim-gse133684-entity-pdac-ev-count-SRR10080545.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-pdac-ev-count-SRR10080546.txt",
+                "url": "cfrna_chimeric/gse133684/pdac/cfrna-chim-gse133684-entity-pdac-ev-count-SRR10080546.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-pdac-ev-count-SRR10080547.txt",
+                "url": "cfrna_chimeric/gse133684/pdac/cfrna-chim-gse133684-entity-pdac-ev-count-SRR10080547.txt"
+              },
+              {
+                "title": "cfrna-chim-gse133684-entity-pdac-ev-count-SRR10080548.txt",
+                "url": "cfrna_chimeric/gse133684/pdac/cfrna-chim-gse133684-entity-pdac-ev-count-SRR10080548.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse68086",
+        "items": [
+          {
+            "title": "brca",
+            "items": [
+              {
+                "title": "cfrna-chim-gse68086-entity-brca-tep-count-SRR1982585.txt",
+                "url": "cfrna_chimeric/gse68086/brca/cfrna-chim-gse68086-entity-brca-tep-count-SRR1982585.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-brca-tep-count-SRR1982586.txt",
+                "url": "cfrna_chimeric/gse68086/brca/cfrna-chim-gse68086-entity-brca-tep-count-SRR1982586.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-brca-tep-count-SRR1982587.txt",
+                "url": "cfrna_chimeric/gse68086/brca/cfrna-chim-gse68086-entity-brca-tep-count-SRR1982587.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-brca-tep-count-SRR1982588.txt",
+                "url": "cfrna_chimeric/gse68086/brca/cfrna-chim-gse68086-entity-brca-tep-count-SRR1982588.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-brca-tep-count-SRR1982589.txt",
+                "url": "cfrna_chimeric/gse68086/brca/cfrna-chim-gse68086-entity-brca-tep-count-SRR1982589.txt"
+              }
+            ]
+          },
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfrna-chim-gse68086-entity-crc-tep-count-SRR1982618.txt",
+                "url": "cfrna_chimeric/gse68086/crc/cfrna-chim-gse68086-entity-crc-tep-count-SRR1982618.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-crc-tep-count-SRR1982619.txt",
+                "url": "cfrna_chimeric/gse68086/crc/cfrna-chim-gse68086-entity-crc-tep-count-SRR1982619.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-crc-tep-count-SRR1982620.txt",
+                "url": "cfrna_chimeric/gse68086/crc/cfrna-chim-gse68086-entity-crc-tep-count-SRR1982620.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-crc-tep-count-SRR1982621.txt",
+                "url": "cfrna_chimeric/gse68086/crc/cfrna-chim-gse68086-entity-crc-tep-count-SRR1982621.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-crc-tep-count-SRR1982622.txt",
+                "url": "cfrna_chimeric/gse68086/crc/cfrna-chim-gse68086-entity-crc-tep-count-SRR1982622.txt"
+              }
+            ]
+          },
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-chim-gse68086-entity-ct-tep-count-SRR1982696.txt",
+                "url": "cfrna_chimeric/gse68086/ct/cfrna-chim-gse68086-entity-ct-tep-count-SRR1982696.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-ct-tep-count-SRR1982697.txt",
+                "url": "cfrna_chimeric/gse68086/ct/cfrna-chim-gse68086-entity-ct-tep-count-SRR1982697.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-ct-tep-count-SRR1982698.txt",
+                "url": "cfrna_chimeric/gse68086/ct/cfrna-chim-gse68086-entity-ct-tep-count-SRR1982698.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-ct-tep-count-SRR1982699.txt",
+                "url": "cfrna_chimeric/gse68086/ct/cfrna-chim-gse68086-entity-ct-tep-count-SRR1982699.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-ct-tep-count-SRR1982700.txt",
+                "url": "cfrna_chimeric/gse68086/ct/cfrna-chim-gse68086-entity-ct-tep-count-SRR1982700.txt"
+              }
+            ]
+          },
+          {
+            "title": "gbm",
+            "items": [
+              {
+                "title": "cfrna-chim-gse68086-entity-gbm-tep-count-SRR1982656.txt",
+                "url": "cfrna_chimeric/gse68086/gbm/cfrna-chim-gse68086-entity-gbm-tep-count-SRR1982656.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-gbm-tep-count-SRR1982657.txt",
+                "url": "cfrna_chimeric/gse68086/gbm/cfrna-chim-gse68086-entity-gbm-tep-count-SRR1982657.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-gbm-tep-count-SRR1982658.txt",
+                "url": "cfrna_chimeric/gse68086/gbm/cfrna-chim-gse68086-entity-gbm-tep-count-SRR1982658.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-gbm-tep-count-SRR1982659.txt",
+                "url": "cfrna_chimeric/gse68086/gbm/cfrna-chim-gse68086-entity-gbm-tep-count-SRR1982659.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-gbm-tep-count-SRR1982660.txt",
+                "url": "cfrna_chimeric/gse68086/gbm/cfrna-chim-gse68086-entity-gbm-tep-count-SRR1982660.txt"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-chim-gse68086-entity-lihc-tep-count-SRR1982608.txt",
+                "url": "cfrna_chimeric/gse68086/lihc/cfrna-chim-gse68086-entity-lihc-tep-count-SRR1982608.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-lihc-tep-count-SRR1982609.txt",
+                "url": "cfrna_chimeric/gse68086/lihc/cfrna-chim-gse68086-entity-lihc-tep-count-SRR1982609.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-lihc-tep-count-SRR1982610.txt",
+                "url": "cfrna_chimeric/gse68086/lihc/cfrna-chim-gse68086-entity-lihc-tep-count-SRR1982610.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-lihc-tep-count-SRR1982611.txt",
+                "url": "cfrna_chimeric/gse68086/lihc/cfrna-chim-gse68086-entity-lihc-tep-count-SRR1982611.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-lihc-tep-count-SRR1982612.txt",
+                "url": "cfrna_chimeric/gse68086/lihc/cfrna-chim-gse68086-entity-lihc-tep-count-SRR1982612.txt"
+              }
+            ]
+          },
+          {
+            "title": "luca",
+            "items": [
+              {
+                "title": "cfrna-chim-gse68086-entity-luca-tep-count-SRR1982756.txt",
+                "url": "cfrna_chimeric/gse68086/luca/cfrna-chim-gse68086-entity-luca-tep-count-SRR1982756.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-luca-tep-count-SRR1982757.txt",
+                "url": "cfrna_chimeric/gse68086/luca/cfrna-chim-gse68086-entity-luca-tep-count-SRR1982757.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-luca-tep-count-SRR1982758.txt",
+                "url": "cfrna_chimeric/gse68086/luca/cfrna-chim-gse68086-entity-luca-tep-count-SRR1982758.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-luca-tep-count-SRR1982759.txt",
+                "url": "cfrna_chimeric/gse68086/luca/cfrna-chim-gse68086-entity-luca-tep-count-SRR1982759.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-luca-tep-count-SRR1982760.txt",
+                "url": "cfrna_chimeric/gse68086/luca/cfrna-chim-gse68086-entity-luca-tep-count-SRR1982760.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": [
+              {
+                "title": "cfrna-chim-gse68086-entity-mean-tep-count-paad.txt",
+                "url": "cfrna_chimeric/gse68086/mean/cfrna-chim-gse68086-entity-mean-tep-count-paad.txt"
+              }
+            ]
+          },
+          {
+            "title": "paad",
+            "items": [
+              {
+                "title": "cfrna-chim-gse68086-entity-paad-tep-count-SRR1982796.txt",
+                "url": "cfrna_chimeric/gse68086/paad/cfrna-chim-gse68086-entity-paad-tep-count-SRR1982796.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-paad-tep-count-SRR1982797.txt",
+                "url": "cfrna_chimeric/gse68086/paad/cfrna-chim-gse68086-entity-paad-tep-count-SRR1982797.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-paad-tep-count-SRR1982798.txt",
+                "url": "cfrna_chimeric/gse68086/paad/cfrna-chim-gse68086-entity-paad-tep-count-SRR1982798.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-paad-tep-count-SRR1982799.txt",
+                "url": "cfrna_chimeric/gse68086/paad/cfrna-chim-gse68086-entity-paad-tep-count-SRR1982799.txt"
+              },
+              {
+                "title": "cfrna-chim-gse68086-entity-paad-tep-count-SRR1982800.txt",
+                "url": "cfrna_chimeric/gse68086/paad/cfrna-chim-gse68086-entity-paad-tep-count-SRR1982800.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "srp061372",
+        "items": [
+          {
+            "title": "brca",
+            "items": [
+              {
+                "title": "cfrna-chim-srp061372-entity-brca-plasma-count-SRR2121862.txt",
+                "url": "cfrna_chimeric/srp061372/brca/cfrna-chim-srp061372-entity-brca-plasma-count-SRR2121862.txt"
+              },
+              {
+                "title": "cfrna-chim-srp061372-entity-brca-plasma-count-SRR2121863.txt",
+                "url": "cfrna_chimeric/srp061372/brca/cfrna-chim-srp061372-entity-brca-plasma-count-SRR2121863.txt"
+              },
+              {
+                "title": "cfrna-chim-srp061372-entity-mean-plasma-count-brca.txt",
+                "url": "cfrna_chimeric/srp061372/brca/cfrna-chim-srp061372-entity-mean-plasma-count-brca.txt"
+              }
+            ]
+          },
+          {
+            "title": "ct_hc",
+            "items": [
+              {
+                "title": "cfrna-chim-srp061372-entity-ct_hc-plasma-count-SRR2121886.txt",
+                "url": "cfrna_chimeric/srp061372/ct_hc/cfrna-chim-srp061372-entity-ct_hc-plasma-count-SRR2121886.txt"
+              },
+              {
+                "title": "cfrna-chim-srp061372-entity-ct_hc-plasma-count-SRR2124116.txt",
+                "url": "cfrna_chimeric/srp061372/ct_hc/cfrna-chim-srp061372-entity-ct_hc-plasma-count-SRR2124116.txt"
+              },
+              {
+                "title": "cfrna-chim-srp061372-entity-ct_hc-plasma-count-SRR2124118.txt",
+                "url": "cfrna_chimeric/srp061372/ct_hc/cfrna-chim-srp061372-entity-ct_hc-plasma-count-SRR2124118.txt"
+              },
+              {
+                "title": "cfrna-chim-srp061372-entity-mean-plasma-count-ct_hc.txt",
+                "url": "cfrna_chimeric/srp061372/ct_hc/cfrna-chim-srp061372-entity-mean-plasma-count-ct_hc.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "cfrna_editing",
+    "items": [
+      {
+        "title": "gse133684",
+        "items": [
+          {
+            "title": "ct_cp",
+            "items": [
+              {
+                "title": "cfrna-edit-gse133684-entity-ct_cp-ev-editratio-srr10080443.vcf.gz",
+                "url": "cfrna_editing/gse133684/ct_cp/cfrna-edit-gse133684-entity-ct_cp-ev-editratio-srr10080443.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse133684-entity-ct_cp-ev-editratio-srr10080444.vcf.gz",
+                "url": "cfrna_editing/gse133684/ct_cp/cfrna-edit-gse133684-entity-ct_cp-ev-editratio-srr10080444.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse133684-entity-ct_cp-ev-editratio-srr10080445.vcf.gz",
+                "url": "cfrna_editing/gse133684/ct_cp/cfrna-edit-gse133684-entity-ct_cp-ev-editratio-srr10080445.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "ct_hc",
+            "items": [
+              {
+                "title": "cfrna-edit-gse133684-entity-ct_hc-ev-editratio-srr10080507.vcf.gz",
+                "url": "cfrna_editing/gse133684/ct_hc/cfrna-edit-gse133684-entity-ct_hc-ev-editratio-srr10080507.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse133684-entity-ct_hc-ev-editratio-srr10080508.vcf.gz",
+                "url": "cfrna_editing/gse133684/ct_hc/cfrna-edit-gse133684-entity-ct_hc-ev-editratio-srr10080508.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse133684-entity-ct_hc-ev-editratio-srr10080509.vcf.gz",
+                "url": "cfrna_editing/gse133684/ct_hc/cfrna-edit-gse133684-entity-ct_hc-ev-editratio-srr10080509.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "pdac",
+            "items": [
+              {
+                "title": "cfrna-edit-gse133684-entity-pdac-ev-editratio-srr10080544.vcf.gz",
+                "url": "cfrna_editing/gse133684/pdac/cfrna-edit-gse133684-entity-pdac-ev-editratio-srr10080544.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse133684-entity-pdac-ev-editratio-srr10080545.vcf.gz",
+                "url": "cfrna_editing/gse133684/pdac/cfrna-edit-gse133684-entity-pdac-ev-editratio-srr10080545.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse133684-entity-pdac-ev-editratio-srr10080546.vcf.gz",
+                "url": "cfrna_editing/gse133684/pdac/cfrna-edit-gse133684-entity-pdac-ev-editratio-srr10080546.vcf.gz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse68086",
+        "items": [
+          {
+            "title": "brca",
+            "items": [
+              {
+                "title": "cfrna-edit-gse68086-entity-brca-tep-editratio-srr1982584.vcf.gz",
+                "url": "cfrna_editing/gse68086/brca/cfrna-edit-gse68086-entity-brca-tep-editratio-srr1982584.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-brca-tep-editratio-srr1982585.vcf.gz",
+                "url": "cfrna_editing/gse68086/brca/cfrna-edit-gse68086-entity-brca-tep-editratio-srr1982585.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-brca-tep-editratio-srr1982586.vcf.gz",
+                "url": "cfrna_editing/gse68086/brca/cfrna-edit-gse68086-entity-brca-tep-editratio-srr1982586.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfrna-edit-gse68086-entity-crc-tep-editratio-srr1982618.vcf.gz",
+                "url": "cfrna_editing/gse68086/crc/cfrna-edit-gse68086-entity-crc-tep-editratio-srr1982618.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-crc-tep-editratio-srr1982619.vcf.gz",
+                "url": "cfrna_editing/gse68086/crc/cfrna-edit-gse68086-entity-crc-tep-editratio-srr1982619.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-crc-tep-editratio-srr1982620.vcf.gz",
+                "url": "cfrna_editing/gse68086/crc/cfrna-edit-gse68086-entity-crc-tep-editratio-srr1982620.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-edit-gse68086-entity-ct-tep-editratio-srr1982696.vcf.gz",
+                "url": "cfrna_editing/gse68086/ct/cfrna-edit-gse68086-entity-ct-tep-editratio-srr1982696.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-ct-tep-editratio-srr1982697.vcf.gz",
+                "url": "cfrna_editing/gse68086/ct/cfrna-edit-gse68086-entity-ct-tep-editratio-srr1982697.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-ct-tep-editratio-srr1982698.vcf.gz",
+                "url": "cfrna_editing/gse68086/ct/cfrna-edit-gse68086-entity-ct-tep-editratio-srr1982698.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "gbm",
+            "items": [
+              {
+                "title": "cfrna-edit-gse68086-entity-gbm-tep-editratio-srr1982656.vcf.gz",
+                "url": "cfrna_editing/gse68086/gbm/cfrna-edit-gse68086-entity-gbm-tep-editratio-srr1982656.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-gbm-tep-editratio-srr1982657.vcf.gz",
+                "url": "cfrna_editing/gse68086/gbm/cfrna-edit-gse68086-entity-gbm-tep-editratio-srr1982657.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-gbm-tep-editratio-srr1982658.vcf.gz",
+                "url": "cfrna_editing/gse68086/gbm/cfrna-edit-gse68086-entity-gbm-tep-editratio-srr1982658.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-edit-gse68086-entity-lihc-tep-editratio-srr1982608.vcf.gz",
+                "url": "cfrna_editing/gse68086/lihc/cfrna-edit-gse68086-entity-lihc-tep-editratio-srr1982608.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-lihc-tep-editratio-srr1982609.vcf.gz",
+                "url": "cfrna_editing/gse68086/lihc/cfrna-edit-gse68086-entity-lihc-tep-editratio-srr1982609.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-lihc-tep-editratio-srr1982610.vcf.gz",
+                "url": "cfrna_editing/gse68086/lihc/cfrna-edit-gse68086-entity-lihc-tep-editratio-srr1982610.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "luca",
+            "items": [
+              {
+                "title": "cfrna-edit-gse68086-entity-luca-tep-editratio-srr1982756.vcf.gz",
+                "url": "cfrna_editing/gse68086/luca/cfrna-edit-gse68086-entity-luca-tep-editratio-srr1982756.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-luca-tep-editratio-srr1982757.vcf.gz",
+                "url": "cfrna_editing/gse68086/luca/cfrna-edit-gse68086-entity-luca-tep-editratio-srr1982757.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-luca-tep-editratio-srr1982758.vcf.gz",
+                "url": "cfrna_editing/gse68086/luca/cfrna-edit-gse68086-entity-luca-tep-editratio-srr1982758.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "paad",
+            "items": [
+              {
+                "title": "cfrna-edit-gse68086-entity-paad-tep-editratio-srr1982796.vcf.gz",
+                "url": "cfrna_editing/gse68086/paad/cfrna-edit-gse68086-entity-paad-tep-editratio-srr1982796.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-paad-tep-editratio-srr1982797.vcf.gz",
+                "url": "cfrna_editing/gse68086/paad/cfrna-edit-gse68086-entity-paad-tep-editratio-srr1982797.vcf.gz"
+              },
+              {
+                "title": "cfrna-edit-gse68086-entity-paad-tep-editratio-srr1982798.vcf.gz",
+                "url": "cfrna_editing/gse68086/paad/cfrna-edit-gse68086-entity-paad-tep-editratio-srr1982798.vcf.gz"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "cfrna_snp",
+    "items": [
+      {
+        "title": "gse120663",
+        "items": [
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-snp-gse120663-entity-ct-pbmc-snpratio-srr7944833.vcf.gz",
+                "url": "cfrna_snp/gse120663/ct/cfrna-snp-gse120663-entity-ct-pbmc-snpratio-srr7944833.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse120663-entity-ct-pbmc-snpratio-srr7944834.vcf.gz",
+                "url": "cfrna_snp/gse120663/ct/cfrna-snp-gse120663-entity-ct-pbmc-snpratio-srr7944834.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse120663-entity-ct-pbmc-snpratio-srr7944835.vcf.gz",
+                "url": "cfrna_snp/gse120663/ct/cfrna-snp-gse120663-entity-ct-pbmc-snpratio-srr7944835.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-snp-gse120663-entity-lihc-pbmc-snpratio-srr7944825.vcf.gz",
+                "url": "cfrna_snp/gse120663/lihc/cfrna-snp-gse120663-entity-lihc-pbmc-snpratio-srr7944825.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse120663-entity-lihc-pbmc-snpratio-srr7944826.vcf.gz",
+                "url": "cfrna_snp/gse120663/lihc/cfrna-snp-gse120663-entity-lihc-pbmc-snpratio-srr7944826.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse120663-entity-lihc-pbmc-snpratio-srr7944827.vcf.gz",
+                "url": "cfrna_snp/gse120663/lihc/cfrna-snp-gse120663-entity-lihc-pbmc-snpratio-srr7944827.vcf.gz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse125442",
+        "items": [
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-snp-gse125442-entity-ct-urine-snpratio-srr8471394.vcf.gz",
+                "url": "cfrna_snp/gse125442/ct/cfrna-snp-gse125442-entity-ct-urine-snpratio-srr8471394.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse125442-entity-ct-urine-snpratio-srr8471395.vcf.gz",
+                "url": "cfrna_snp/gse125442/ct/cfrna-snp-gse125442-entity-ct-urine-snpratio-srr8471395.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse125442-entity-ct-urine-snpratio-srr8471396.vcf.gz",
+                "url": "cfrna_snp/gse125442/ct/cfrna-snp-gse125442-entity-ct-urine-snpratio-srr8471396.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "kirc",
+            "items": [
+              {
+                "title": "cfrna-snp-gse125442-entity-kirc-urine-snpratio-srr8471384.vcf.gz",
+                "url": "cfrna_snp/gse125442/kirc/cfrna-snp-gse125442-entity-kirc-urine-snpratio-srr8471384.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse125442-entity-kirc-urine-snpratio-srr8471385.vcf.gz",
+                "url": "cfrna_snp/gse125442/kirc/cfrna-snp-gse125442-entity-kirc-urine-snpratio-srr8471385.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse125442-entity-kirc-urine-snpratio-srr8471386.vcf.gz",
+                "url": "cfrna_snp/gse125442/kirc/cfrna-snp-gse125442-entity-kirc-urine-snpratio-srr8471386.vcf.gz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse133684",
+        "items": [
+          {
+            "title": "ct_cp",
+            "items": [
+              {
+                "title": "cfrna-snp-gse133684-entity-ct_cp-ev-snpratio-srr10080437.vcf.gz",
+                "url": "cfrna_snp/gse133684/ct_cp/cfrna-snp-gse133684-entity-ct_cp-ev-snpratio-srr10080437.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse133684-entity-ct_cp-ev-snpratio-srr10080438.vcf.gz",
+                "url": "cfrna_snp/gse133684/ct_cp/cfrna-snp-gse133684-entity-ct_cp-ev-snpratio-srr10080438.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse133684-entity-ct_cp-ev-snpratio-srr10080439.vcf.gz",
+                "url": "cfrna_snp/gse133684/ct_cp/cfrna-snp-gse133684-entity-ct_cp-ev-snpratio-srr10080439.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "ct_hc",
+            "items": [
+              {
+                "title": "cfrna-snp-gse133684-entity-ct_hc-ev-snpratio-srr10080507.vcf.gz",
+                "url": "cfrna_snp/gse133684/ct_hc/cfrna-snp-gse133684-entity-ct_hc-ev-snpratio-srr10080507.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse133684-entity-ct_hc-ev-snpratio-srr10080508.vcf.gz",
+                "url": "cfrna_snp/gse133684/ct_hc/cfrna-snp-gse133684-entity-ct_hc-ev-snpratio-srr10080508.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse133684-entity-ct_hc-ev-snpratio-srr10080509.vcf.gz",
+                "url": "cfrna_snp/gse133684/ct_hc/cfrna-snp-gse133684-entity-ct_hc-ev-snpratio-srr10080509.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "pdac",
+            "items": [
+              {
+                "title": "cfrna-snp-gse133684-entity-pdac-ev-snpratio-srr10080544.vcf.gz",
+                "url": "cfrna_snp/gse133684/pdac/cfrna-snp-gse133684-entity-pdac-ev-snpratio-srr10080544.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse133684-entity-pdac-ev-snpratio-srr10080545.vcf.gz",
+                "url": "cfrna_snp/gse133684/pdac/cfrna-snp-gse133684-entity-pdac-ev-snpratio-srr10080545.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse133684-entity-pdac-ev-snpratio-srr10080546.vcf.gz",
+                "url": "cfrna_snp/gse133684/pdac/cfrna-snp-gse133684-entity-pdac-ev-snpratio-srr10080546.vcf.gz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse68086",
+        "items": [
+          {
+            "title": "brca",
+            "items": [
+              {
+                "title": "cfrna-snp-gse68086-entity-brca-tep-snpratio-srr1982584.vcf.gz",
+                "url": "cfrna_snp/gse68086/brca/cfrna-snp-gse68086-entity-brca-tep-snpratio-srr1982584.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-brca-tep-snpratio-srr1982585.vcf.gz",
+                "url": "cfrna_snp/gse68086/brca/cfrna-snp-gse68086-entity-brca-tep-snpratio-srr1982585.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-brca-tep-snpratio-srr1982586.vcf.gz",
+                "url": "cfrna_snp/gse68086/brca/cfrna-snp-gse68086-entity-brca-tep-snpratio-srr1982586.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfrna-snp-gse68086-entity-crc-tep-snpratio-srr1982618.vcf.gz",
+                "url": "cfrna_snp/gse68086/crc/cfrna-snp-gse68086-entity-crc-tep-snpratio-srr1982618.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-crc-tep-snpratio-srr1982619.vcf.gz",
+                "url": "cfrna_snp/gse68086/crc/cfrna-snp-gse68086-entity-crc-tep-snpratio-srr1982619.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-crc-tep-snpratio-srr1982620.vcf.gz",
+                "url": "cfrna_snp/gse68086/crc/cfrna-snp-gse68086-entity-crc-tep-snpratio-srr1982620.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-snp-gse68086-entity-ct-tep-snpratio-srr1982696.vcf.gz",
+                "url": "cfrna_snp/gse68086/ct/cfrna-snp-gse68086-entity-ct-tep-snpratio-srr1982696.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-ct-tep-snpratio-srr1982697.vcf.gz",
+                "url": "cfrna_snp/gse68086/ct/cfrna-snp-gse68086-entity-ct-tep-snpratio-srr1982697.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-ct-tep-snpratio-srr1982698.vcf.gz",
+                "url": "cfrna_snp/gse68086/ct/cfrna-snp-gse68086-entity-ct-tep-snpratio-srr1982698.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "gbm",
+            "items": [
+              {
+                "title": "cfrna-snp-gse68086-entity-gbm-tep-snpratio-srr1982656.vcf.gz",
+                "url": "cfrna_snp/gse68086/gbm/cfrna-snp-gse68086-entity-gbm-tep-snpratio-srr1982656.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-gbm-tep-snpratio-srr1982657.vcf.gz",
+                "url": "cfrna_snp/gse68086/gbm/cfrna-snp-gse68086-entity-gbm-tep-snpratio-srr1982657.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-gbm-tep-snpratio-srr1982658.vcf.gz",
+                "url": "cfrna_snp/gse68086/gbm/cfrna-snp-gse68086-entity-gbm-tep-snpratio-srr1982658.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-snp-gse68086-entity-lihc-tep-snpratio-srr1982608.vcf.gz",
+                "url": "cfrna_snp/gse68086/lihc/cfrna-snp-gse68086-entity-lihc-tep-snpratio-srr1982608.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-lihc-tep-snpratio-srr1982609.vcf.gz",
+                "url": "cfrna_snp/gse68086/lihc/cfrna-snp-gse68086-entity-lihc-tep-snpratio-srr1982609.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-lihc-tep-snpratio-srr1982610.vcf.gz",
+                "url": "cfrna_snp/gse68086/lihc/cfrna-snp-gse68086-entity-lihc-tep-snpratio-srr1982610.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "luca",
+            "items": [
+              {
+                "title": "cfrna-snp-gse68086-entity-luca-tep-snpratio-srr1982756.vcf.gz",
+                "url": "cfrna_snp/gse68086/luca/cfrna-snp-gse68086-entity-luca-tep-snpratio-srr1982756.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-luca-tep-snpratio-srr1982757.vcf.gz",
+                "url": "cfrna_snp/gse68086/luca/cfrna-snp-gse68086-entity-luca-tep-snpratio-srr1982757.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-luca-tep-snpratio-srr1982758.vcf.gz",
+                "url": "cfrna_snp/gse68086/luca/cfrna-snp-gse68086-entity-luca-tep-snpratio-srr1982758.vcf.gz"
+              }
+            ]
+          },
+          {
+            "title": "paad",
+            "items": [
+              {
+                "title": "cfrna-snp-gse68086-entity-paad-tep-snpratio-srr1982796.vcf.gz",
+                "url": "cfrna_snp/gse68086/paad/cfrna-snp-gse68086-entity-paad-tep-snpratio-srr1982796.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-paad-tep-snpratio-srr1982797.vcf.gz",
+                "url": "cfrna_snp/gse68086/paad/cfrna-snp-gse68086-entity-paad-tep-snpratio-srr1982797.vcf.gz"
+              },
+              {
+                "title": "cfrna-snp-gse68086-entity-paad-tep-snpratio-srr1982798.vcf.gz",
+                "url": "cfrna_snp/gse68086/paad/cfrna-snp-gse68086-entity-paad-tep-snpratio-srr1982798.vcf.gz"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "cfrna_splicing",
+    "items": [
+      {
+        "title": "gse117623",
+        "items": [
+          {
+            "title": "ct_cld",
+            "items": [
+              {
+                "title": "cfrna-splc-gse117623-entity-ct_cld-cec-iclv-SRR7607871.txt",
+                "url": "cfrna_splicing/gse117623/ct_cld/cfrna-splc-gse117623-entity-ct_cld-cec-iclv-SRR7607871.txt"
+              },
+              {
+                "title": "cfrna-splc-gse117623-entity-ct_cld-cec-iclv-SRR7607872.txt",
+                "url": "cfrna_splicing/gse117623/ct_cld/cfrna-splc-gse117623-entity-ct_cld-cec-iclv-SRR7607872.txt"
+              },
+              {
+                "title": "cfrna-splc-gse117623-entity-ct_cld-cec-iclv-SRR7607873.txt",
+                "url": "cfrna_splicing/gse117623/ct_cld/cfrna-splc-gse117623-entity-ct_cld-cec-iclv-SRR7607873.txt"
+              },
+              {
+                "title": "cfrna-splc-gse117623-entity-ct_cld-cec-iclv-SRR7607874.txt",
+                "url": "cfrna_splicing/gse117623/ct_cld/cfrna-splc-gse117623-entity-ct_cld-cec-iclv-SRR7607874.txt"
+              },
+              {
+                "title": "cfrna-splc-gse117623-entity-ct_cld-cec-iclv-SRR7607875.txt",
+                "url": "cfrna_splicing/gse117623/ct_cld/cfrna-splc-gse117623-entity-ct_cld-cec-iclv-SRR7607875.txt"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-splc-gse117623-entity-lihc-cec-iclv-SRR7607935.txt",
+                "url": "cfrna_splicing/gse117623/lihc/cfrna-splc-gse117623-entity-lihc-cec-iclv-SRR7607935.txt"
+              },
+              {
+                "title": "cfrna-splc-gse117623-entity-lihc-cec-iclv-SRR7607936.txt",
+                "url": "cfrna_splicing/gse117623/lihc/cfrna-splc-gse117623-entity-lihc-cec-iclv-SRR7607936.txt"
+              },
+              {
+                "title": "cfrna-splc-gse117623-entity-lihc-cec-iclv-SRR7607937.txt",
+                "url": "cfrna_splicing/gse117623/lihc/cfrna-splc-gse117623-entity-lihc-cec-iclv-SRR7607937.txt"
+              },
+              {
+                "title": "cfrna-splc-gse117623-entity-lihc-cec-iclv-SRR7607938.txt",
+                "url": "cfrna_splicing/gse117623/lihc/cfrna-splc-gse117623-entity-lihc-cec-iclv-SRR7607938.txt"
+              },
+              {
+                "title": "cfrna-splc-gse117623-entity-lihc-cec-iclv-SRR7607939.txt",
+                "url": "cfrna_splicing/gse117623/lihc/cfrna-splc-gse117623-entity-lihc-cec-iclv-SRR7607939.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      },
+      {
+        "title": "gse120663",
+        "items": [
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-splc-gse120663-entity-ct-pbmc-iclv-SRR7944833.txt",
+                "url": "cfrna_splicing/gse120663/ct/cfrna-splc-gse120663-entity-ct-pbmc-iclv-SRR7944833.txt"
+              },
+              {
+                "title": "cfrna-splc-gse120663-entity-ct-pbmc-iclv-SRR7944834.txt",
+                "url": "cfrna_splicing/gse120663/ct/cfrna-splc-gse120663-entity-ct-pbmc-iclv-SRR7944834.txt"
+              },
+              {
+                "title": "cfrna-splc-gse120663-entity-ct-pbmc-iclv-SRR7944835.txt",
+                "url": "cfrna_splicing/gse120663/ct/cfrna-splc-gse120663-entity-ct-pbmc-iclv-SRR7944835.txt"
+              },
+              {
+                "title": "cfrna-splc-gse120663-entity-ct-pbmc-iclv-SRR7944836.txt",
+                "url": "cfrna_splicing/gse120663/ct/cfrna-splc-gse120663-entity-ct-pbmc-iclv-SRR7944836.txt"
+              },
+              {
+                "title": "cfrna-splc-gse120663-entity-ct-pbmc-iclv-SRR7944837.txt",
+                "url": "cfrna_splicing/gse120663/ct/cfrna-splc-gse120663-entity-ct-pbmc-iclv-SRR7944837.txt"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-splc-gse120663-entity-lihc-pbmc-iclv-SRR7944825.txt",
+                "url": "cfrna_splicing/gse120663/lihc/cfrna-splc-gse120663-entity-lihc-pbmc-iclv-SRR7944825.txt"
+              },
+              {
+                "title": "cfrna-splc-gse120663-entity-lihc-pbmc-iclv-SRR7944826.txt",
+                "url": "cfrna_splicing/gse120663/lihc/cfrna-splc-gse120663-entity-lihc-pbmc-iclv-SRR7944826.txt"
+              },
+              {
+                "title": "cfrna-splc-gse120663-entity-lihc-pbmc-iclv-SRR7944827.txt",
+                "url": "cfrna_splicing/gse120663/lihc/cfrna-splc-gse120663-entity-lihc-pbmc-iclv-SRR7944827.txt"
+              },
+              {
+                "title": "cfrna-splc-gse120663-entity-lihc-pbmc-iclv-SRR7944828.txt",
+                "url": "cfrna_splicing/gse120663/lihc/cfrna-splc-gse120663-entity-lihc-pbmc-iclv-SRR7944828.txt"
+              },
+              {
+                "title": "cfrna-splc-gse120663-entity-lihc-pbmc-iclv-SRR7944829.txt",
+                "url": "cfrna_splicing/gse120663/lihc/cfrna-splc-gse120663-entity-lihc-pbmc-iclv-SRR7944829.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      },
+      {
+        "title": "gse125442",
+        "items": [
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-splc-gse125442-entity-ct-urine-iclv-SRR8471394.txt",
+                "url": "cfrna_splicing/gse125442/ct/cfrna-splc-gse125442-entity-ct-urine-iclv-SRR8471394.txt"
+              },
+              {
+                "title": "cfrna-splc-gse125442-entity-ct-urine-iclv-SRR8471395.txt",
+                "url": "cfrna_splicing/gse125442/ct/cfrna-splc-gse125442-entity-ct-urine-iclv-SRR8471395.txt"
+              },
+              {
+                "title": "cfrna-splc-gse125442-entity-ct-urine-iclv-SRR8471396.txt",
+                "url": "cfrna_splicing/gse125442/ct/cfrna-splc-gse125442-entity-ct-urine-iclv-SRR8471396.txt"
+              },
+              {
+                "title": "cfrna-splc-gse125442-entity-ct-urine-iclv-SRR8471397.txt",
+                "url": "cfrna_splicing/gse125442/ct/cfrna-splc-gse125442-entity-ct-urine-iclv-SRR8471397.txt"
+              },
+              {
+                "title": "cfrna-splc-gse125442-entity-ct-urine-iclv-SRR8471398.txt",
+                "url": "cfrna_splicing/gse125442/ct/cfrna-splc-gse125442-entity-ct-urine-iclv-SRR8471398.txt"
+              }
+            ]
+          },
+          {
+            "title": "kirc",
+            "items": [
+              {
+                "title": "cfrna-splc-gse125442-entity-kirc-urine-iclv-SRR8471384.txt",
+                "url": "cfrna_splicing/gse125442/kirc/cfrna-splc-gse125442-entity-kirc-urine-iclv-SRR8471384.txt"
+              },
+              {
+                "title": "cfrna-splc-gse125442-entity-kirc-urine-iclv-SRR8471385.txt",
+                "url": "cfrna_splicing/gse125442/kirc/cfrna-splc-gse125442-entity-kirc-urine-iclv-SRR8471385.txt"
+              },
+              {
+                "title": "cfrna-splc-gse125442-entity-kirc-urine-iclv-SRR8471386.txt",
+                "url": "cfrna_splicing/gse125442/kirc/cfrna-splc-gse125442-entity-kirc-urine-iclv-SRR8471386.txt"
+              },
+              {
+                "title": "cfrna-splc-gse125442-entity-kirc-urine-iclv-SRR8471387.txt",
+                "url": "cfrna_splicing/gse125442/kirc/cfrna-splc-gse125442-entity-kirc-urine-iclv-SRR8471387.txt"
+              },
+              {
+                "title": "cfrna-splc-gse125442-entity-kirc-urine-iclv-SRR8471388.txt",
+                "url": "cfrna_splicing/gse125442/kirc/cfrna-splc-gse125442-entity-kirc-urine-iclv-SRR8471388.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      },
+      {
+        "title": "gse133684",
+        "items": [
+          {
+            "title": "ct_cp",
+            "items": [
+              {
+                "title": "cfrna-splc-gse133684-entity-ct_cp-ev-iclv-SRR10080437.txt",
+                "url": "cfrna_splicing/gse133684/ct_cp/cfrna-splc-gse133684-entity-ct_cp-ev-iclv-SRR10080437.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-ct_cp-ev-iclv-SRR10080438.txt",
+                "url": "cfrna_splicing/gse133684/ct_cp/cfrna-splc-gse133684-entity-ct_cp-ev-iclv-SRR10080438.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-ct_cp-ev-iclv-SRR10080439.txt",
+                "url": "cfrna_splicing/gse133684/ct_cp/cfrna-splc-gse133684-entity-ct_cp-ev-iclv-SRR10080439.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-ct_cp-ev-iclv-SRR10080440.txt",
+                "url": "cfrna_splicing/gse133684/ct_cp/cfrna-splc-gse133684-entity-ct_cp-ev-iclv-SRR10080440.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-ct_cp-ev-iclv-SRR10080441.txt",
+                "url": "cfrna_splicing/gse133684/ct_cp/cfrna-splc-gse133684-entity-ct_cp-ev-iclv-SRR10080441.txt"
+              }
+            ]
+          },
+          {
+            "title": "ct_hc",
+            "items": [
+              {
+                "title": "cfrna-splc-gse133684-entity-ct_hc-ev-iclv-SRR10080507.txt",
+                "url": "cfrna_splicing/gse133684/ct_hc/cfrna-splc-gse133684-entity-ct_hc-ev-iclv-SRR10080507.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-ct_hc-ev-iclv-SRR10080508.txt",
+                "url": "cfrna_splicing/gse133684/ct_hc/cfrna-splc-gse133684-entity-ct_hc-ev-iclv-SRR10080508.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-ct_hc-ev-iclv-SRR10080509.txt",
+                "url": "cfrna_splicing/gse133684/ct_hc/cfrna-splc-gse133684-entity-ct_hc-ev-iclv-SRR10080509.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-ct_hc-ev-iclv-SRR10080510.txt",
+                "url": "cfrna_splicing/gse133684/ct_hc/cfrna-splc-gse133684-entity-ct_hc-ev-iclv-SRR10080510.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-ct_hc-ev-iclv-SRR10080511.txt",
+                "url": "cfrna_splicing/gse133684/ct_hc/cfrna-splc-gse133684-entity-ct_hc-ev-iclv-SRR10080511.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": [
+              {
+                "title": "cfrna-splc-gse133684-entity-mean-ev-iclv-pdac.txt",
+                "url": "cfrna_splicing/gse133684/mean/cfrna-splc-gse133684-entity-mean-ev-iclv-pdac.txt"
+              }
+            ]
+          },
+          {
+            "title": "pdac",
+            "items": [
+              {
+                "title": "cfrna-splc-gse133684-entity-pdac-ev-iclv-SRR10080544.txt",
+                "url": "cfrna_splicing/gse133684/pdac/cfrna-splc-gse133684-entity-pdac-ev-iclv-SRR10080544.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-pdac-ev-iclv-SRR10080545.txt",
+                "url": "cfrna_splicing/gse133684/pdac/cfrna-splc-gse133684-entity-pdac-ev-iclv-SRR10080545.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-pdac-ev-iclv-SRR10080546.txt",
+                "url": "cfrna_splicing/gse133684/pdac/cfrna-splc-gse133684-entity-pdac-ev-iclv-SRR10080546.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-pdac-ev-iclv-SRR10080547.txt",
+                "url": "cfrna_splicing/gse133684/pdac/cfrna-splc-gse133684-entity-pdac-ev-iclv-SRR10080547.txt"
+              },
+              {
+                "title": "cfrna-splc-gse133684-entity-pdac-ev-iclv-SRR10080548.txt",
+                "url": "cfrna_splicing/gse133684/pdac/cfrna-splc-gse133684-entity-pdac-ev-iclv-SRR10080548.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "gse68086",
+        "items": [
+          {
+            "title": "brca",
+            "items": [
+              {
+                "title": "cfrna-splc-gse68086-entity-brca-tep-iclv-SRR1982584.txt",
+                "url": "cfrna_splicing/gse68086/brca/cfrna-splc-gse68086-entity-brca-tep-iclv-SRR1982584.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-brca-tep-iclv-SRR1982585.txt",
+                "url": "cfrna_splicing/gse68086/brca/cfrna-splc-gse68086-entity-brca-tep-iclv-SRR1982585.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-brca-tep-iclv-SRR1982586.txt",
+                "url": "cfrna_splicing/gse68086/brca/cfrna-splc-gse68086-entity-brca-tep-iclv-SRR1982586.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-brca-tep-iclv-SRR1982587.txt",
+                "url": "cfrna_splicing/gse68086/brca/cfrna-splc-gse68086-entity-brca-tep-iclv-SRR1982587.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-brca-tep-iclv-SRR1982588.txt",
+                "url": "cfrna_splicing/gse68086/brca/cfrna-splc-gse68086-entity-brca-tep-iclv-SRR1982588.txt"
+              }
+            ]
+          },
+          {
+            "title": "crc",
+            "items": [
+              {
+                "title": "cfrna-splc-gse68086-entity-crc-tep-iclv-SRR1982618.txt",
+                "url": "cfrna_splicing/gse68086/crc/cfrna-splc-gse68086-entity-crc-tep-iclv-SRR1982618.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-crc-tep-iclv-SRR1982619.txt",
+                "url": "cfrna_splicing/gse68086/crc/cfrna-splc-gse68086-entity-crc-tep-iclv-SRR1982619.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-crc-tep-iclv-SRR1982620.txt",
+                "url": "cfrna_splicing/gse68086/crc/cfrna-splc-gse68086-entity-crc-tep-iclv-SRR1982620.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-crc-tep-iclv-SRR1982621.txt",
+                "url": "cfrna_splicing/gse68086/crc/cfrna-splc-gse68086-entity-crc-tep-iclv-SRR1982621.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-crc-tep-iclv-SRR1982622.txt",
+                "url": "cfrna_splicing/gse68086/crc/cfrna-splc-gse68086-entity-crc-tep-iclv-SRR1982622.txt"
+              }
+            ]
+          },
+          {
+            "title": "ct",
+            "items": [
+              {
+                "title": "cfrna-splc-gse68086-entity-ct-tep-iclv-SRR1982696.txt",
+                "url": "cfrna_splicing/gse68086/ct/cfrna-splc-gse68086-entity-ct-tep-iclv-SRR1982696.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-ct-tep-iclv-SRR1982697.txt",
+                "url": "cfrna_splicing/gse68086/ct/cfrna-splc-gse68086-entity-ct-tep-iclv-SRR1982697.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-ct-tep-iclv-SRR1982698.txt",
+                "url": "cfrna_splicing/gse68086/ct/cfrna-splc-gse68086-entity-ct-tep-iclv-SRR1982698.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-ct-tep-iclv-SRR1982699.txt",
+                "url": "cfrna_splicing/gse68086/ct/cfrna-splc-gse68086-entity-ct-tep-iclv-SRR1982699.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-ct-tep-iclv-SRR1982700.txt",
+                "url": "cfrna_splicing/gse68086/ct/cfrna-splc-gse68086-entity-ct-tep-iclv-SRR1982700.txt"
+              }
+            ]
+          },
+          {
+            "title": "lihc",
+            "items": [
+              {
+                "title": "cfrna-splc-gse68086-entity-lihc-tep-iclv-SRR1982608.txt",
+                "url": "cfrna_splicing/gse68086/lihc/cfrna-splc-gse68086-entity-lihc-tep-iclv-SRR1982608.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-lihc-tep-iclv-SRR1982609.txt",
+                "url": "cfrna_splicing/gse68086/lihc/cfrna-splc-gse68086-entity-lihc-tep-iclv-SRR1982609.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-lihc-tep-iclv-SRR1982610.txt",
+                "url": "cfrna_splicing/gse68086/lihc/cfrna-splc-gse68086-entity-lihc-tep-iclv-SRR1982610.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-lihc-tep-iclv-SRR1982611.txt",
+                "url": "cfrna_splicing/gse68086/lihc/cfrna-splc-gse68086-entity-lihc-tep-iclv-SRR1982611.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-lihc-tep-iclv-SRR1982612.txt",
+                "url": "cfrna_splicing/gse68086/lihc/cfrna-splc-gse68086-entity-lihc-tep-iclv-SRR1982612.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": [
+              {
+                "title": "cfrna-splc-gse68086-entity-mean-tep-iclv-gbm.txt",
+                "url": "cfrna_splicing/gse68086/mean/cfrna-splc-gse68086-entity-mean-tep-iclv-gbm.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-mean-tep-iclv-luca.txt",
+                "url": "cfrna_splicing/gse68086/mean/cfrna-splc-gse68086-entity-mean-tep-iclv-luca.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-mean-tep-iclv-paad.txt",
+                "url": "cfrna_splicing/gse68086/mean/cfrna-splc-gse68086-entity-mean-tep-iclv-paad.txt"
+              }
+            ]
+          },
+          {
+            "title": "paad",
+            "items": [
+              {
+                "title": "cfrna-splc-gse68086-entity-paad-tep-iclv-SRR1982796.txt",
+                "url": "cfrna_splicing/gse68086/paad/cfrna-splc-gse68086-entity-paad-tep-iclv-SRR1982796.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-paad-tep-iclv-SRR1982797.txt",
+                "url": "cfrna_splicing/gse68086/paad/cfrna-splc-gse68086-entity-paad-tep-iclv-SRR1982797.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-paad-tep-iclv-SRR1982798.txt",
+                "url": "cfrna_splicing/gse68086/paad/cfrna-splc-gse68086-entity-paad-tep-iclv-SRR1982798.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-paad-tep-iclv-SRR1982799.txt",
+                "url": "cfrna_splicing/gse68086/paad/cfrna-splc-gse68086-entity-paad-tep-iclv-SRR1982799.txt"
+              },
+              {
+                "title": "cfrna-splc-gse68086-entity-paad-tep-iclv-SRR1982800.txt",
+                "url": "cfrna_splicing/gse68086/paad/cfrna-splc-gse68086-entity-paad-tep-iclv-SRR1982800.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "srp061372",
+        "items": [
+          {
+            "title": "brca",
+            "items": [
+              {
+                "title": "cfrna-splc-srp061372-entity-brca-plasma-iclv-SRR2121861.txt",
+                "url": "cfrna_splicing/srp061372/brca/cfrna-splc-srp061372-entity-brca-plasma-iclv-SRR2121861.txt"
+              },
+              {
+                "title": "cfrna-splc-srp061372-entity-brca-plasma-iclv-SRR2121862.txt",
+                "url": "cfrna_splicing/srp061372/brca/cfrna-splc-srp061372-entity-brca-plasma-iclv-SRR2121862.txt"
+              },
+              {
+                "title": "cfrna-splc-srp061372-entity-brca-plasma-iclv-SRR2121863.txt",
+                "url": "cfrna_splicing/srp061372/brca/cfrna-splc-srp061372-entity-brca-plasma-iclv-SRR2121863.txt"
+              },
+              {
+                "title": "cfrna-splc-srp061372-entity-mean-plasma-iclv-brca.txt",
+                "url": "cfrna_splicing/srp061372/brca/cfrna-splc-srp061372-entity-mean-plasma-iclv-brca.txt"
+              }
+            ]
+          },
+          {
+            "title": "ct_hc",
+            "items": [
+              {
+                "title": "cfrna-splc-srp061372-entity-ct_hc-plasma-iclv-SRR2121886.txt",
+                "url": "cfrna_splicing/srp061372/ct_hc/cfrna-splc-srp061372-entity-ct_hc-plasma-iclv-SRR2121886.txt"
+              },
+              {
+                "title": "cfrna-splc-srp061372-entity-ct_hc-plasma-iclv-SRR2124116.txt",
+                "url": "cfrna_splicing/srp061372/ct_hc/cfrna-splc-srp061372-entity-ct_hc-plasma-iclv-SRR2124116.txt"
+              },
+              {
+                "title": "cfrna-splc-srp061372-entity-ct_hc-plasma-iclv-SRR2124118.txt",
+                "url": "cfrna_splicing/srp061372/ct_hc/cfrna-splc-srp061372-entity-ct_hc-plasma-iclv-SRR2124118.txt"
+              },
+              {
+                "title": "cfrna-splc-srp061372-entity-mean-plasma-iclv-ct_hc.txt",
+                "url": "cfrna_splicing/srp061372/ct_hc/cfrna-splc-srp061372-entity-mean-plasma-iclv-ct_hc.txt"
+              }
+            ]
+          },
+          {
+            "title": "mean",
+            "items": []
+          }
+        ]
+      }
+    ]
+  }
+]

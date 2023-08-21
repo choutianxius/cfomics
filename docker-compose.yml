@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  react:
+    build: ./frontend
+    ports:
+      - 3000:3000
+    depends_on:
+      - node
+  node:
+    build: ./backend-node
+    ports:
+      - 8084:8084
+    env_file:
+      - ./backend-node/.env

@@ -1,0 +1,129 @@
+.exomics-statistics-board{
+    margin: auto;
+    width: 1081px;
+    height: 350px;
+    background: #ffffff;
+    border: 1px solid #d2d2d2;
+    border-radius: 0px;
+    vertical-align: middle;
+    margin-top:44px;
+}
+.exomics-statistics-boardtop{
+    padding-top: 5px;
+    width: 1081px;
+    height: 41px;
+    background: #f7f7f7;
+    border: 1px solid #d2d2d2;
+    border-radius: 0px;
+    display:inline-block;
+    vertical-align: middle;
+    align-items: center;
+}
+.exomics-statistics-boardmiddle{
+    width: 1081px;
+    height: 300px;
+    justify-content: center;
+    border-radius: 0px;
+    display:inline-block;
+    vertical-align: middle;
+    align-items: center;
+}
+.exomics-statistics-boardtop-box{
+    margin:auto;
+    margin-left: 10px;
+    vertical-align: middle;
+    float:left;
+    
+    
+}
+.exomics-statistics-boardtop-box2{
+    margin:auto;
+    margin-right: 10px;
+    float:right;
+    
+    
+}
+.exomics-statistics-text{
+    margin:auto;
+    height: 25px;
+    border-radius: 0px;
+    font-size: 18px;
+    font-family: Helvetica, Helvetica-Bold;
+    font-weight: normal;
+    text-align: LEFT;
+    color: #333333;
+    
+    
+    
+}
+.exomics-statistics-hyperlink{
+    height: 21px;
+    border-radius: 0px;
+    font-size: 15px;
+    font-family: Helvetica, Helvetica-Normal;
+    font-weight: normal;
+    text-align: RIGHT;
+    color: #686868;
+    text-decoration: none;
+   
+}
+.exomics-statistics-figure1{
+    height:200px;
+    margin-top: auto;
+    margin-left: 100px;
+    float:left;
+}
+.exomics-statistics-figure2{
+    height:200px;
+    margin-top: auto;
+    margin-right: 100px;
+    float:right;
+}
+.exomics-statistics-littleboard{
+    margin: auto;
+    width: 528px;
+    height: 350px;
+    background: #ffffff;
+    border: 1px solid #d2d2d2;
+    border-radius: 0px;
+    vertical-align: middle;
+    margin-top:44px;
+    float:left;
+}
+.exomics-statistics-littleboard2{
+    margin: auto;
+    width: 528px;
+    height: 350px;
+    background: #ffffff;
+    border: 1px solid #d2d2d2;
+    border-radius: 0px;
+    vertical-align: middle;
+    margin-top:44px;
+    float:right;
+}
+
+.exomics-statistics-littleboardtop{
+    padding-top: 5px;
+    width: 528px;
+    height: 41px;
+    background: #f7f7f7;
+    border: 1px solid #d2d2d2;
+    border-radius: 0px;
+    display:inline-block;
+    vertical-align: middle;
+    align-items: center;
+}
+.exomics-statistics-littleboardmiddle{
+    width: 528px;
+    height: 300px;
+    justify-content: center;
+    border-radius: 0px;
+    display:inline-block;
+    vertical-align: middle;
+    align-items: center;
+}
+.bigboard{
+    margin:auto;
+    width:1080px;
+    height:400px;
+}

@@ -1,0 +1,44 @@
+.igv-menu {
+  z-index: 999;
+}
+
+.igv-menu .igv-submenu {
+  z-index: 999;
+  display: none;
+  position: absolute;
+  left: 100%;
+  top: -1rem;
+  width: 100%;
+}
+
+.igv-menu li {
+  z-index: 999;
+  position: relative;
+  cursor: pointer;
+  font-size: small;
+}
+
+.igv-menu li.has-submenu:hover {
+  background-color: #f8f9fa;
+}
+
+.igv-menu li.has-submenu:hover > .igv-submenu {
+  display: block;
+}
+
+.igv-menu li.has-submenu > div::after {
+  display: inline-flex;
+  content: '';
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-caret-right-fill' viewBox='0 0 16 16'%3E%3Cpath d='m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z'/%3E%3C/svg%3E");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  right: 0.125rem;
+}
+
+.terminal {
+  max-height: 20rem;
+  overflow-y: auto;
+}

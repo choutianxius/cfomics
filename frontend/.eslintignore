@@ -1,0 +1,10 @@
+/node_modules
+/build
+**/*_old/*
+*_old
+
+# CRA eject results
+/config
+/scripts
+
+**/test/*

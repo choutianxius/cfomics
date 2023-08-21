@@ -1,0 +1,17 @@
+/* Style the list */
+ul.my-breadcrumb {
+  list-style: none;
+  margin: 1rem 0;
+  padding: 0;
+}
+
+/* Display list items side by side */
+ul.my-breadcrumb li {
+  display: inline;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.my-breadcrumb li+li:before {
+  content: "/\00a0";
+  margin: .5rem;
+}

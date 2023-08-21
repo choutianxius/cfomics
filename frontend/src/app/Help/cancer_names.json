@@ -1,0 +1,19 @@
+[
+    ["THCA", "THCA", "Thyroid Cancer"],
+    ["PRAD", "PRAD", "Prostate Adenocarcinoma"],
+    ["PDAC", "PDAC", "ancreatic ductal adenocar"],
+    ["PAAD", "PAAD", "Pancreatic adenocarcinoma"],
+    ["MB", "MB", "Medulloblastoma"],
+    ["LUCA", "LUCA", "Lung cancer"],
+    ["HCC", "LIHC", "Liver Hepatocellular Carcinoma"],
+    ["AML", "LAML", "Acute myeloid leukemia"],
+    ["ccRCC", "KIRC", "Kidney renal clear cell cercinoma"],
+    ["GC", "GC", "Gastric"],
+    ["GBM", "GBM", "Glioblastoma"],
+    ["ESCC", "ESCC", "Esophageal squamous-cell carcinoma"],
+    ["EAC", "EAC", "Esophageal adenocarcinoma"],
+    ["DLBCL", "DLBC", "Diffuse large B-cell lymphoma"],
+    ["COAD", "CRC", "Colorectal cancer"],
+    ["CLL", "CLL", "Chronic lymphocytic leukemia"],
+    ["BRCA", "BRCA", "Breast cancer"]
+]

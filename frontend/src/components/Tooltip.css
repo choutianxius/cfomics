@@ -1,0 +1,41 @@
+.exomics-tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.exomics-tooltip .exomics-tooltip-text {
+    font-size: .7rem;
+    visibility: hidden;
+    background-color: rgba(63,63,63, .8);
+    color: white;
+    text-align: center;
+    padding: .5rem;
+    border-radius: .5rem;
+    position: absolute;
+    z-index: 10;
+    font-weight: normal;
+}
+
+.exomics-tooltip .exomics-tooltip-text-start {
+    right: 110%;
+}
+
+.exomics-tooltip .exomics-tooltip-text-end {
+    left: 110%;
+}
+
+.exomics-tooltip .exomics-tooltip-text-top {
+    bottom: 110%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.exomics-tooltip .exomics-tooltip-text-bottom {
+    top: 110%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.exomics-tooltip:hover .exomics-tooltip-text {
+   visibility: visible;
+}
