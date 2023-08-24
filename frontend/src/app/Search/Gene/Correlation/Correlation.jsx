@@ -89,7 +89,7 @@ export default function Correlation ({ gene }) {
       .then((data) => { setPlotHtml(data); setPlotErrorMessage(null); })
       .catch((e) => { setPlotErrorMessage(e); })
       .finally(() => { setPlotLoading(false); });
-  }, []);
+  }, [gene]);
 
   const SECOND_CLASS = ['altp', 'apa', 'chim', 'edit', 'snp', 'splc', 'itst'];
 

@@ -58,7 +58,7 @@ export default function ComparisonCls1New ({
       })
       .catch((e) => { setDiseaseListError(e); })
       .finally(() => { setLoadingDiseaseList(false); });
-  }, [feature, dataset, specimen, element]);
+  }, [gene, feature, dataset, specimen, element]);
 
   if (diseaseListError) {
     return <MyAlert error={diseaseListError} />;
