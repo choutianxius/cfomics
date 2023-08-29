@@ -22,7 +22,7 @@ As the website need a large amount of data to run properly, you will need to dir
 
 ## Request Environment Files Containing Secrets
 
-Because you will need to directly connect to our online database, to prevent abuse of our database and API, you need to contact [choutianxius@gmail.com](mailto:choutianxius@gmail.com) to get three environment files before running this project. Place the environment files and rename them as follows (they are also specified in the `docker-compose.yml` file):
+Because you will need to directly connect to our online database, to prevent abuse of our database and API, you need to contact [choutianxius@gmail.com](mailto:choutianxius@gmail.com) to get three environment files before running this project. Place the environment files and rename them as follows:
 
 | Original File | Path                            | Rename To                |
 | ------------- | ------------------------------- | ------------------------ |
@@ -53,8 +53,10 @@ Because you will need to directly connect to our online database, to prevent abu
   docker compose down
   ~~~
 
-  
 
-  
+## Warning
 
-  
+**DO NOT** redistribute the built image!
+
+
+
