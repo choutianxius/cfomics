@@ -1,3 +1,6 @@
+'''
+This module is disabled for the demo code
+'''
 from django.core.mail import send_mail
 from rest_framework.decorators import (
     api_view,
@@ -6,7 +9,6 @@ from rest_framework.decorators import (
 from rest_framework.renderers import JSONRenderer
 from rest_framework.response import Response
 from rest_framework import status
-from datetime import datetime
 from django.conf import settings
 import pymysql
 
@@ -37,12 +39,12 @@ def data_request_email_view(request):
     name = first_name + ' ' + last_name
     if title:
         name = title + ' ' + name
-    subject = f'cfOmics Data Download Link'
+    subject = 'cfOmics Data Download Link'
 
-    message = f'Dear {name}\n\n'
-    message += f'Please go to\n'
-    message += f'http://111.198.139.65/cfomics-static/\n'
-    message += f'for downloading our data.\n\n'
+    message = 'Dear {name}\n\n'
+    message += 'Please go to\n'
+    message += f'{settings.EMAIL_DOWNLOAD_URL}\n'
+    message += 'for downloading our data.\n\n'
 
     sender = settings.EMAIL_HOST_USER
     recipients = settings.EMAIL_RECIPIENTS + [email]
@@ -57,8 +59,10 @@ def data_request_email_view(request):
         with create_conn() as conn:
             with conn.cursor() as cursor:
                 sql = 'INSERT INTO `request_list` '\
-                    '(`title`, `first_name`, `last_name`, `email`, `affiliation`, `purpose`, `time`) '\
-                    f'VALUES (\'{title or "N/A"}\', \'{first_name}\', \'{last_name}\', '\
+                    '(`title`, `first_name`, `last_name`, `email`,'\
+                    ' `affiliation`, `purpose`, `time`) '\
+                    f'VALUES (\'{title or "N/A"}\', '\
+                    f'\'{first_name}\', \'{last_name}\', '\
                     f'\'{email}\', \'{affiliation}\', \'{purpose}\', NOW());'
                 cursor.execute(sql)
             conn.commit()

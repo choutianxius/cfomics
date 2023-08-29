@@ -1,8 +1,7 @@
 from django.urls import path
 from core import views
 
-# data_url is obsolete
-# means to be used in the component
+
 urlpatterns = [
     path(
         'html/demo',
@@ -114,21 +113,22 @@ urlpatterns = [
         views.corr_scatter_view,
         name='misc/corr_scatter',
     ),
-    path(
-        'misc/data_request',
-        views.data_request_email_view,
-        name='misc/data_request',
-    ),
-    path(
-        'misc/update_stats',
-        views.update_stats_view,
-        name='misc/update_stats',
-    ),
-    path(
-        'misc/get_request_list',
-        views.get_request_list_view,
-        name='misc/get_request_list',
-    ),
+    ## disabled API endpoints for demo code
+    # path(
+    #     'misc/data_request',
+    #     views.data_request_email_view,
+    #     name='misc/data_request',
+    # ),
+    # path(
+    #     'misc/update_stats',
+    #     views.update_stats_view,
+    #     name='misc/update_stats',
+    # ),
+    # path(
+    #     'misc/get_request_list',
+    #     views.get_request_list_view,
+    #     name='misc/get_request_list',
+    # ),
     path(
         'misc/select_diseases',
         views.select_diseases_view,

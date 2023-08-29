@@ -5,3 +5,6 @@ exclude =
     manage.py,
     settings.py,
     plots,
+
+ignore = 
+    E201, E202, E722

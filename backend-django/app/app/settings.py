@@ -22,9 +22,12 @@ env = environ.Env(
     DB_USER = (str, ''),
     DB_PASSWORD = (str, ''),
     DB_NAME = (str, ''),
+    EMAIL_HOST = (str, ''),
+    EMAIL_PORT = (int, 465),
     EMAIL_HOST_USER = (str, ''),
     EMAIL_HOST_PASSWORD = (str, ''),
     EMAIL_RECIPIENTS = (str, ''),
+    EMAIL_DOWNLOAD_URL = (str, ''),
     ADMIN_AUTH_TOKEN = (str, ''),
 )
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -154,11 +157,12 @@ EXOMICS_DB_NAME = env('DB_NAME')
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
-EMAIL_HOST = 'smtp.163.com'
-EMAIL_PORT = 465
-EMAIL_USE_SSL = True
+EMAIL_HOST = env('EMAIL_HOST')
+EMAIL_PORT = env('EMAIL_PORT')
+EMAIL_USE_SSL = env('EMAIL_USE_SSL')
 EMAIL_HOST_USER = env('EMAIL_HOST_USER')
 EMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')
 EMAIL_RECIPIENTS = env('EMAIL_RECIPIENTS').split(',')
+EMAIL_DOWNLOAD_URL = env('EMAIL_DOWNLOAD_URL')
 
 ADMIN_AUTH_TOKEN = env('ADMIN_AUTH_TOKEN')
