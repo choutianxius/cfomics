@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 /* eslint-disable react/jsx-one-expression-per-line */
 import { MathJax } from 'better-react-mathjax';
 import React from 'react';
@@ -534,9 +535,14 @@ export const fragsizeRatioPart1 = (
 export const RAProteinPart1 = (
   <>
     <p className="px-4">
-      According to the experimental design of mass spectrometry (MS) raw data,
-      protein intensities were calculated based on label-free or labeled
-      quantification. Both quantifications were conducted using PANDA[1].
+      For the calculation of the intensity of proteins, Mascot version 2.8 (60) was applied to
+      process the raw mass spectrometry (MS) data with the following parameter settings: false
+      discovery rate (FDR) of 0.05, precursor mass tolerance of 20 ppm, fragment tolerance of
+      0.05 Da, number of tryptic termini (NTT) of 2, maximum missed cleavage of 2, and fixed
+      modification of carbamidomethyl on Cysteine. The MS/MS spectra were searched against the
+      UniProt human protein database (version of November 3, 2022), which contained 20,401
+      protein entries. PANDA (61) was applied to calculate protein intensities based on
+      label-free or labeled quantification.
     </p>
 
     <p className="px-4"><Bold>Label-free quantification</Bold></p>
@@ -593,10 +599,36 @@ export const RAMetabolitePart1 = (
   <>
     <p className="px-4"><Bold>Quantitative metabolomics analysis</Bold></p>
 
-    <p className="px-4">The MS raw data were imported into MZmine 3[1] software, which turns the
-      raw data into a list of features and corresponding signal intensity detected across the
-      analyzed samples. These feature lists can then be exported for spectral library search.
+    <p className="px-4">The acquired raw data were converted to mzML format using
+      MSConvert (62) and then processed using MS-DIAL version 5.10 (63), which
+      includes data collection, peak detection, compound identification, and
+      peak alignment. Data collection was performed with the following parameter
+      settings: MS1 tolerance = 0.01 Da, MS2 tolerance = 0.025 Da, Retention
+      time = 0-100 min, MS1 mass range = 0-2000 Da.
     </p>
+
+    <p className="px-4">In MS-DIAL, the base peak chromatogram is extracted for each mass
+      slice of 0.1 m/z with a step size of 0.05 m/z. MS-DIAL uses smoothing methods
+      (the linearly weighted smoothing average as default), differential calculus,
+      and noise estimations to detect peak tops and two edges from the base peak
+      chromatograms. The peak intensity is then measured by peak height or area.
+      The detected peak tops are shown as ‘spots’ in a spot plot with retention
+      time (min) and MS1 data (m/z) axes. The retention time and base peak m/z of
+      each peak spot are used for metabolite identification, while the peak
+      intensity is used to represent the intensity of metabolites in the database.
+    </p>
+
+    <p className="px-4">Metabolite identification is carried out by searching the
+      MS-DIAL metabolomics MSP spectral kits (All public MS/MS libraries) to match
+      the obtained mass spectra with reference spectra of compounds. Four scores,
+      namely RT similarity, MS1 similarity, isotope ratio similarity, and MS/MS
+      similarity, were calculated based on retention time, accurate mass, isotope
+      ratio, and MS/MS spectrum information. Each score was standardized to a
+      range from 0 to 1, meaning no similarity and a perfect match, respectively.
+      A weighted average of the four scores is used for compound identification.
+    </p>
+
+    {/*
     <p className="px-4">The workflow consists of seven steps:
     </p>
     <ul className="px-6">
@@ -615,5 +647,15 @@ export const RAMetabolitePart1 = (
         mass spectrometry data in MZmine 3[J]. Nat Biotechnol, 2023, 41(4): 447-449.
       </Light>
     </p>
+  */}
   </>
+);
+
+export const RAMetabolitePart2 = (
+  <p className="px-4">The peak alignment algorithm in MS-DIAL is derived from
+    the Joint Aligner implemented in MZmine (64). It consists of four major
+    steps: (1) making a reference table, (2) fitting each sample peak table
+    to the reference peak table, (3) filtering aligned peaks and (4)
+    interpolating missing values.
+  </p>
 );

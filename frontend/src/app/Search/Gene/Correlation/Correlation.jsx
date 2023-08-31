@@ -95,7 +95,6 @@ export default function Correlation ({ gene }) {
 
   return (
     <>
-      {/* const SECOND_CLASS = ['altp', 'chim', 'edit', 'snp', 'splc', 'itst']; */}
       <div className="exomics-callout">
         <div>
           <p>

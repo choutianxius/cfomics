@@ -1,21 +1,16 @@
 {
-  "short_name": "exomics react",
-  "name": "exomics react",
+  "short_name": "cfomics",
+  "name": "cfomics website",
   "icons": [
     {
-      "src": "exomics.ico",
+      "src": "cfomics-icon.svg",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/svg+xml"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "cfomics-icon-red.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
     }
   ],
   "start_url": ".",

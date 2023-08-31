@@ -8,6 +8,9 @@ import './Help.css';
 import { AccordionItem, openAccordionItem } from './AccordionItem';
 import CollapsibleNav from './CollapsibleNav';
 
+import { cancersRows, otherRows, valuesRows } from './HelpTableData';
+import SortableTable from '../../components/SortableTable';
+
 const { PUBLIC_URL } = process.env;
 
 const structureChart = PUBLIC_URL + '/images/cfOmicsOverview.webp';
@@ -49,6 +52,15 @@ export default function Help () {
   const [browseGeneCancersOpen, setBrowseGeneCancersOpen] = useState(true);
   const [nomenclatureOpen, setNomenclatureOpen] = useState(true);
   const [pipelineOpen, setPipelineOpen] = useState(true);
+
+  // table configs
+  const colDefinitions = [
+    { accessor: 'abbreviations', name: 'After Modification' },
+    { accessor: 'full_name', name: 'Before Modification' },
+  ];
+  const tableAttributes = { className: 'table table-hover table-bordered text-center' };
+  const theadAttributes = { className: 'table-light' };
+
   return (
     <div id="cfomics-tutorial-main">
       <MathJaxContext version={3} config={config}>
@@ -198,154 +210,12 @@ export default function Help () {
                 <h3 className="p-4">Cancers</h3>
                 <div className="row justify-content-center">
                   <div className="col">
-                    <table className="table table-responsive table-bordered table-hover table-sm w-100">
-                      <thead>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="col">After Modification</th>
-                          <th className="text-lg" scope="col">Full Name</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">BRCA</th>
-                          <td className="text-lg">Breast cancer</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CCC</th>
-                          <td className="text-lg">Cholangiocarcinoma</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CLL</th>
-                          <td className="text-lg">
-                            Chronic lymphocytic leukemia
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CRC</th>
-                          <td className="text-lg">Colorectal cancer</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">DLBC</th>
-                          <td className="text-lg">
-                            Diffuse large B-cell lymphoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">EAC</th>
-                          <td className="text-lg">
-                            Esophageal Adenocarcinoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">EC</th>
-                          <td className="text-lg">
-                            Endometrial Cancer
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">ESCC</th>
-                          <td className="text-lg">
-                            Esophageal squamous-cell carcinoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">GBM</th>
-                          <td className="text-lg">
-                            Glioblastoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">GC</th>
-                          <td className="text-lg">
-                            Gastric Cancer
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">HL</th>
-                          <td className="text-lg">
-                            Hodgkin Lymphoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">HNC</th>
-                          <td className="text-lg">
-                            Head and Neck Cancer
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">KIRC</th>
-                          <td className="text-lg">
-                            Kidney renal clear cell carcinoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">LAML</th>
-                          <td className="text-lg">
-                            Acute myeloid leukemia
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">LCC</th>
-                          <td className="text-lg">
-                            Left Colorectal Cancer
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">LIHC</th>
-                          <td className="text-lg">
-                            Liver Hepatocellular Carcinoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">LUCA</th>
-                          <td className="text-lg">
-                            Lung cancer
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">MB</th>
-                          <td className="text-lg">
-                            Medulloblastoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">MEL</th>
-                          <td className="text-lg">
-                            Melanoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">MM</th>
-                          <td className="text-lg">
-                            Multiple Myeloma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">PAAD</th>
-                          <td className="text-lg">
-                            Pancreatic adenocarcinoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">PDAC</th>
-                          <td className="text-lg">
-                            Pancreatic ductal adenocarcinoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">PRAD</th>
-                          <td className="text-lg">
-                            Prostate Adenocarcinoma
-                          </td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">THCA</th>
-                          <td className="text-lg">
-                            Thyroid Cancer
-                          </td>
-                        </tr>
-                      </tbody>
-                    </table>
+                    <SortableTable
+                      data={cancersRows}
+                      colDefinitions={colDefinitions}
+                      tableAttributes={tableAttributes}
+                      theadAttributes={theadAttributes}
+                    />
                   </div>
                 </div>
               </article>
@@ -353,116 +223,12 @@ export default function Help () {
                 <h3 className="p-4">Other Conditions</h3>
                 <div className="row justify-content-center">
                   <div className="col">
-                    <table className="table table-responsive table-bordered table-hover table-sm w-100">
-                      <thead>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="col">Abbreviations</th>
-                          <th className="text-lg" scope="col">Full Name</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">AP</th>
-                          <td className="text-lg">Angina Pectoris</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">AS</th>
-                          <td className="text-lg">Atherosclerosis</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">BD</th>
-                          <td className="text-lg">Bowel Disease</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">BLL</th>
-                          <td className="text-lg">Benign Liver Lesions</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CD</th>
-                          <td className="text-lg">Crohn&apos;s Disease</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CEC</th>
-                          <td className="text-lg">Circulating Epithelial Cells</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CHB</th>
-                          <td className="text-lg">Chronic Hepatitis B Virus</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CLD</th>
-                          <td className="text-lg">Chronic Liver Disease</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CP</th>
-                          <td className="text-lg">Chronic Pancreatitis</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CT</th>
-                          <td className="text-lg">control</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">DS</th>
-                          <td className="text-lg">corresponding disease</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">E</th>
-                          <td className="text-lg">Epilepsy</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">GH</th>
-                          <td className="text-lg">Hematuria</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">HBVC</th>
-                          <td className="text-lg">HBV Carrier</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">HBVLC</th>
-                          <td className="text-lg">HBV Cirrhosis</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">HC</th>
-                          <td className="text-lg">healthy</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">HP</th>
-                          <td className="text-lg">Hydrocephalus Patient</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">LC</th>
-                          <td className="text-lg">Liver Cirrhosis</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">MS</th>
-                          <td className="text-lg">Multiple Sclerosis</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">nSTEMI</th>
-                          <td className="text-lg">Non-ST-Elevation Myocardial Infarction</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">PD</th>
-                          <td className="text-lg">Pancreatic Disease</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">PH</th>
-                          <td className="text-lg">Pulmonary Hypertension</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">SAP</th>
-                          <td className="text-lg">Stable Angina Pectoris</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">UAP</th>
-                          <td className="text-lg">Unstable Angina Pectoris</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">UC</th>
-                          <td className="text-lg">Ulcerative Colitis</td>
-                        </tr>
-                      </tbody>
-                    </table>
+                    <SortableTable
+                      data={otherRows}
+                      colDefinitions={colDefinitions}
+                      tableAttributes={tableAttributes}
+                      theadAttributes={theadAttributes}
+                    />
                   </div>
                 </div>
               </article>
@@ -470,84 +236,12 @@ export default function Help () {
                 <h3 className="p-4">Values / Features / Identities</h3>
                 <div className="row justify-content-center">
                   <div className="col">
-                    <table className="table table-responsive table-bordered table-hover w-100">
-                      <thead>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="col">Abbreviations</th>
-                          <th className="text-lg" scope="col">Full Name</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">15t5</th>
-                          <td className="text-lg">promoter-150TSS50</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">31e1</th>
-                          <td className="text-lg">promoter300100exon1end</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">splc</th>
-                          <td className="text-lg">splicing</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">expr</th>
-                          <td className="text-lg">expression</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">te</th>
-                          <td className="text-lg">transposable element</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">no</th>
-                          <td className="text-lg">nucleosome occupancy</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">noratio</th>
-                          <td className="text-lg">nucleosome occupancy ratio</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">rbc</th>
-                          <td className="text-lg">red blood cell</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">area</th>
-                          <td className="text-lg">Area of Peak</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">itst</th>
-                          <td className="text-lg">Intensity</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">iclv</th>
-                          <td className="text-lg">IncLevel</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CSF</th>
-                          <td className="text-lg">Cerebrospinal Fluid</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">PBMC</th>
-                          <td className="text-lg">Peripheral Blood Mononuclear Cell</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">EV</th>
-                          <td className="text-lg">Extracellular vesicles</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">TEP</th>
-                          <td className="text-lg">Tumor-educated Platelets</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CEC</th>
-                          <td className="text-lg">Circulating Epithelial Cells</td>
-                        </tr>
-                        <tr key={nanoid()}>
-                          <th className="text-lg" scope="row">CTC</th>
-                          <td className="text-lg">Circlulating Tumour Cells</td>
-                        </tr>
-                      </tbody>
-                    </table>
+                    <SortableTable
+                      data={valuesRows}
+                      colDefinitions={colDefinitions}
+                      tableAttributes={tableAttributes}
+                      theadAttributes={theadAttributes}
+                    />
                   </div>
                 </div>
               </article>
@@ -701,6 +395,8 @@ export default function Help () {
                 <article id="pipeline-raMetabolite">
                   <h3 className="p-4">Relative Abundance of Metabolite</h3>
                   {text.RAMetabolitePart1}
+                  <MathJax>{'\\{Total\\ score = \\frac{MS/MS\\ similarity+MS1\\ similarity+RT\\ similarity+0.5 \\times isotope\\ ratio\\ similarity}{3.5}\\times 100\\}'}</MathJax>
+                  {text.RAMetabolitePart2}
                 </article>
               </MathJaxContext>
             </AccordionItem>

@@ -324,7 +324,7 @@ export default function Home () {
                       <li>Whole blood</li>
                       <li>Urine</li>
                       <li>Cerebrospinal fluid</li>
-                      <li>5 more different types of extracellular specimens</li>
+                      <li>8 more different types of extracellular specimens</li>
                     </ul>
                   </li>
                   <li>
@@ -334,6 +334,9 @@ export default function Home () {
                     Detailed documentation to support your scientific research
                   </li>
                 </ul>
+                <div className="text-secondary" style={{ fontSize: '.75rem' }}>
+                  Image created with biorender.com
+                </div>
               </div>
             </div>
           </div>
@@ -347,7 +350,7 @@ export default function Home () {
                 </h6>
                 <ul className="flex-grow-1 text-dark-emphasis ps-3 p-0">
                   <li>
-                    A total of 15 distinct data types for exploration and analysis
+                    A total of 17 distinct data types for exploration and analysis
                   </li>
                   <li>
                     Four omics domains: DNA, RNA, proteins, and metabolites

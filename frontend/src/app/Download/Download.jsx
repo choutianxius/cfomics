@@ -1,28 +1,79 @@
 /* eslint-disable react/jsx-one-expression-per-line */
 import React from 'react';
-import { nanoid } from 'nanoid';
 import { HashLink } from 'react-router-hash-link';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUpRightFromSquare } from '@fortawesome/free-solid-svg-icons';
 
 import literatures from './literature.json';
 import { defaultHashLinkScroll } from '../../utils/hashLinkScroll';
+import SortableTable from '../../components/SortableTable';
 
 export default function Download () {
-  // const HEADERS = [
-  //   ['group'],
-  //   ['expr'],
-  //   ['microbe'],
-  //   ['splc'],
-  //   ['edit'],
-  //   ['apa'],
-  //   ['snp'],
-  //   ['altp'],
-  //   ['chim'],
-  //   ['te'],
-  //   ['bsseq'],
-  //   ['dipseq'],
-  // ];
+  function renderPMID (pmid) {
+    if (pmid === 'NA') return pmid;
+    return (
+      <a target="_blank" rel="noreferrer" href={`https://pubmed.ncbi.nlm.nih.gov/${pmid}/`}>
+        {pmid}
+      </a>
+    );
+  }
+
+  function renderDataSeries (s) {
+    if (s.match(/^GSE/)) {
+      return (
+        <a target="_blank" rel="noreferrer" href={`https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=${s}`}>
+          {s}
+        </a>
+      );
+    }
+    if (s.match(/^PXD/)) {
+      return (
+        <a target="_blank" rel="noreferrer" href={`https://www.ebi.ac.uk/pride/archive/projects/${s}`}>
+          {s}
+        </a>
+      );
+    }
+    if (s.match(/^MSV/)) {
+      return (
+        <a target="_blank" rel="noreferrer" href={`https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?accession=${s}`}>
+          {s}
+        </a>
+      );
+    }
+    return s;
+  }
+
+  const colDefinitions = [
+    { accessor: 'title', name: 'Title' },
+    { accessor: 'pmid', name: 'PMID', render: renderPMID },
+    { accessor: 'dataSeries', name: 'Data Series', render: renderDataSeries },
+    { accessor: 'dataType', name: 'Data Type' },
+    { accessor: 'sampleSize', name: 'Sample Size' },
+    { accessor: 'specimen', name: 'Specimen' },
+    { accessor: 'libraryType', name: 'Library Type' },
+    { accessor: 'diseaseType', name: 'Disease Type' },
+    { accessor: 'journal', name: 'Journal' },
+  ];
+
+  const data = literatures.slice(1).map((l) => ({
+    title: l[0],
+    pmid: l[1],
+    dataSeries: l[2],
+    dataType: l[3],
+    sampleSize: l[4],
+    specimen: l[5],
+    libraryType: l[6],
+    diseaseType: l[7],
+    journal: l[8],
+  }));
+
+  const tableAttributes = {
+    className: 'table table-bordered table-sm text-center align-middle',
+    style: { fontSize: '.875rem' },
+  };
+
+  const theadAttributes = { className: 'table-light text-nowrap' };
+
   return (
     <>
       {/* begin::heading */}
@@ -44,23 +95,10 @@ export default function Download () {
       <h3 className="mb-2" id="literature">Raw Datasets</h3>
       <p className="mb-2">All cfOmics data are processed from publicly available sources.</p>
       <div className="table-responsive mb-2">
-        <table
+        {/* <table
           className="table table-bordered table-sm text-center align-middle"
           style={{ fontSize: '.8rem' }}
         >
-          <caption className="fst-italic">
-            <span className="fw-semibold">** Disclaimer</span>:
-            The datasets currently incorporated into cfOmics
-            have all been sourced from publicly available repositories.
-            In cases where additional requirements were stipulated
-            in the data release statement, we diligently reached out
-            to the respective authors to seek re-analysis and obtain permission
-            for publication. If you discover that your dataset
-            has been included in cfOmics, but for any particular reason
-            it is deemed unsuitable for publication, please&nbsp;
-            <HashLink scroll={defaultHashLinkScroll} to="../contact">contact us</HashLink>
-            &nbsp;, and we will promptly retract the dataset.
-          </caption>
           <thead className="table-light text-nowrap">
             <tr>
               <th>Title</th>
@@ -96,7 +134,7 @@ export default function Download () {
                     {
                       (r[2].match(/^GSE/))
                         ? (
-                          <a target="_blank" rel="noreferrer" href={`https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=${r[2]}/`}>
+                          <a target="_blank" rel="noreferrer" href={`https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=${r[2]}`}>
                             {r[2]}
                           </a>
                         )
@@ -125,7 +163,26 @@ export default function Download () {
               ),
             )}
           </tbody>
-        </table>
+        </table> */}
+        <SortableTable
+          colDefinitions={colDefinitions}
+          data={data}
+          tableAttributes={tableAttributes}
+          theadAttributes={theadAttributes}
+        />
+        <div className="fst-italic text-secondary" style={{ fontSize: '.8rem' }}>
+          <span className="fw-semibold">** Disclaimer</span>:
+          The datasets currently incorporated into cfOmics
+          have all been sourced from publicly available repositories.
+          In cases where additional requirements were stipulated
+          in the data release statement, we diligently reached out
+          to the respective authors to seek re-analysis and obtain permission
+          for publication. If you discover that your dataset
+          has been included in cfOmics, but for any particular reason
+          it is deemed unsuitable for publication, please&nbsp;
+          <HashLink scroll={defaultHashLinkScroll} to="../contact">contact us</HashLink>
+          &nbsp;, and we will promptly retract the dataset.
+        </div>
       </div>
       {/* end::literature */}
 

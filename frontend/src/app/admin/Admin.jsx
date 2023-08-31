@@ -81,7 +81,7 @@ export default function Admin () {
   return (
     <div className="card">
       <div className="card-body">
-        {/* <h6 className="card-title mb-3">Update Stats Metadata in Database</h6> */}
+        <ErrorAlert message="This page is disabled for this demo project." />
 
         <div className="mb-3">
           <label htmlFor="admin_token" className="form-label">Token</label>
