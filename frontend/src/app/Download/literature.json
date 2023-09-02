@@ -17,7 +17,7 @@
 ["High-throughput sequencing of two populations of extracellular vesicles provides an mRNA signature that can be detected in the circulation of breast cancer patients","27858503","SRP061372","cfRNA","6","plasma","Transcriptome","ILC","RNA Biology"],
 ["Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA","28263317","SRP061372","cfDNA","339","plasma","RRBS","CRC","Nat Genet"],
 ["NA","NA","GSE73931","cfDNA","3","blood","WGS","normal","NA"],
-["Plasma extracellular vesicle long RNA profiling identifies a diagnostic signature for the detection of pancreatic ductal adenocarcinoma","31562239","GSE133684","cfRNA","401","EV form plasma","Long RNA","PDAC","Gut"],
+["Plasma extracellular vesicle long RNA profiling identifies a diagnostic signature for the detection of pancreatic ductal adenocarcinoma","31562239","GSE133684","cfRNA","401","EV from plasma","Long RNA","PDAC","Gut"],
 ["Prognostic implications of 5-hydroxymethylcytosines from circulating cell-free DNA in diffuse large B-cell lymphoma","31570490","GSE126676","cfDNA","45","plasma","hMe-seal-seq","Leukemia","Blood"],
 ["Reliable tumor detection using cerebrospinal fluid cell-free DNA methylomes in pediatric medulloblastoma","33067228","GSE142241","cfDNA","8","CSF","WGBS","Pediatric medullablastoma","Sci Adv"],
 ["RNA sequencing of pancreatic circulating tumour cells implicates WNT signalling in metastasis.","22763454","GSE40174","cfRNA","32","Blood CTC","Transcriptome","PDAC","Nature"],
