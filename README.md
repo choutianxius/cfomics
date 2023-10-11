@@ -6,6 +6,10 @@ author: choutianxius@gmail.com
 
 This repository contains the code of the cfOmics website. It is the same as what's behind [the online website](https://cfomics.ncrnalab.org), apart from some deployment-related parts.
 
+cfOmics is published in Nucleic Acids Research with DOI: [https://doi.org/10.1093/nar/gkad777](https://doi.org/10.1093/nar/gkad777). If our database has helped you on your research, please cite:
+
+*Mingyang Li, Tianxiu Zhou, Mingfei Han, Hongke Wang, Pengfei Bao, Yuhuan Tao, Xiaoqing Chen, Guansheng Wu, Tianyou Liu, Xiaojuan Wang, Qian Lu, Yunping Zhu, Zhi John Lu, cfOmics: a cell-free multi-Omics database for diseases, Nucleic Acids Research, 2023;, gkad777, https://doi.org/10.1093/nar/gkad777*
+
 ## Structure
 
 cfOmics is a comprehensive database for cell-free multi-omics high-throughput data, which is comprised of five parts:

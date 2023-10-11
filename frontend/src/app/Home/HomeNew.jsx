@@ -94,13 +94,27 @@ export default function Home () {
             A <span className="text-primary">C</span>ell-<span className="text-primary">F</span>ree
             Multi<span className="text-primary">Omics</span> Database for Diseases
           </h4>
-          <div className="lead p-0 align-text-bottom">
-            cfOmics is a comprehensive database focusing on
-            extracellular multi-omics data of multiple cancers and
-            relative non-cancer diseases based on
-            high-throughput sequencing and MS data, including cfDNA,
-            cfRNA, extracellular proteome, metabolome, circulating tumor
-            cells (CTC) and others.
+          <div className="p-0 align-text-bottom" style={{ textAlign: 'justify' }}>
+            <span style={{ color: '#000000', fontSize: '1.125rem' }}>
+              cfOmics is a comprehensive database focusing on
+              extracellular multi-Omics data of multiple cancers and
+              relative non-cancer diseases based on
+              high-throughput sequencing and MS data, including cfDNA,
+              cfRNA, extracellular proteome, metabolome, circulating tumor
+              cells (CTC) and others.
+            </span>
+            <br />
+            <span style={{ fontSize: '.875rem', fontWeight: '400' }} className="fst-italic text-secondary lh-sm">
+              cfOmics is published in <span className="fw-semibold">Nucleic Acids Research</span> with DOI:&nbsp;
+              <a className="text-decoration-none" href="https://doi.org/10.1093/nar/gkad777" target="_blank" rel="noreferrer">
+                https://doi.org/10.1093/nar/gkad777
+              </a>
+              . If our database has helped you on your research, please cite:
+              Mingyang Li, Tianxiu Zhou, Mingfei Han, Hongke Wang, Pengfei Bao, Yuhuan Tao,
+              Xiaoqing Chen, Guansheng Wu, Tianyou Liu, Xiaojuan Wang, Qian Lu, Yunping Zhu,
+              Zhi John Lu, cfOmics: a cell-free multi-Omics database for diseases, Nucleic Acids
+              Research, 2023;, gkad777, https://doi.org/10.1093/nar/gkad777
+            </span>
           </div>
         </div>
         {/* end::title */}
